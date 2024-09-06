@@ -11,7 +11,9 @@ export const DateFrom = "01.01.2024"
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 Здесь Вы можете ознакомиться с кредитными предложениями и отправить запрос официальному дилеру GEELY.
 
@@ -1055,7 +1057,7 @@ import Button from '@/components/Button/Button.astro';
 <br />
 <br />
 
-Подробности в отделе продаж по телефону: <a href="tel:+73532405353">+7 (3532) 40-53-53</a>
+Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
 	<Button 

@@ -11,6 +11,9 @@ export const DateFrom = "01.09.2024"
 export const DateTo = "30.09.2024"
 
 import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 Максимальная выгода до 680 000 руб. при покупке нового автомобиля Geely
 
@@ -365,7 +368,7 @@ import Button from '@/components/Button/Button.astro';
 
  
 
-Подробности в отделе продаж по телефону: <a href="tel:+73537223355">+7 (3537) 22-33-55</a>
+Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
 	<Button
