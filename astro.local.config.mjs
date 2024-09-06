@@ -11,7 +11,7 @@ import yaml from '@rollup/plugin-yaml';
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.config.js'
+			configFile: './tailwind.geely.js'
 		}),
 		sitemap(),
 		robots(),
