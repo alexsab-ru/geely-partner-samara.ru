@@ -13,7 +13,7 @@ export const LEGAL_CITY_WHERE = 'Самаре';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр Geely в Самаре';
 // Телефон по умолчанию
-export const PHONE = '+7 (846) 213 12-13';
+export const PHONE = '+7 (846) 213-02-13';
 // Бренд
 export const BRAND = 'Geely';
 // Конечное время для таймера
