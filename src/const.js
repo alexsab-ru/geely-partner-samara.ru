@@ -27,7 +27,7 @@ export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 export const LINK_WIDGET_ORGNIZATION = '';
 // Ссылки под хедером
 export const LINKS_MENU = [
-	// {url: 'cars/', name: 'Авто в наличии'},
+	{url: 'cars/', name: 'Авто в наличии'},
 	{url: 'models/', name: 'Модели'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
 	// {url: 'news/', name: 'Новости'},
