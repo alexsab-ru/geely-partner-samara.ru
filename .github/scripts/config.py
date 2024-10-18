@@ -4,6 +4,12 @@ dealer = {
 }
 # Словарь соответствия цветов
 model_mapping = {
+    "001": {
+        "folder": "001",
+        "color": {
+            "Белый": "white.webp",
+        }
+    },
     "Atlas Pro": {
         "folder": "Atlas Pro",
         "color": {
