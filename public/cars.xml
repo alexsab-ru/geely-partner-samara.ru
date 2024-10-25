@@ -3890,76 +3890,6 @@ Geely Preface — это элегантный седан бизнес-класс
 			<images />
 		<priceWithDiscount>2755990</priceWithDiscount><sale_price>2755990</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-luxury-серый-2024/</url></car>
 		<car>
-			<unique_id>9458007de09b7dc34be46f01fab0cd9d</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4115990</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>400000</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD4RB001569</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Купе-кроссовер 001 – это первая модель в линейке бренда KNEWSTAR с запоминающимся дизайном, премиальными материалами отделки и современными технологиями.
-Выразительный силуэт кросс-купе KNEWSTAR 001 заметен в потоке с первого взгляда. Спортивный характер автомобиля подчёркивают строгая решётка радиатора, лаконичный передний бампер и сдвоенные выхлопные патрубки в заднем бампере.
-Шведские и китайские инженеры совместно разработали современный 4-цилиндровый турбированный двигатель объёмом 2.0 литра. Он способен развивать мощность до 238 л. с. и крутящий момент до 350 Н∙м. KNEWSTAR 001, оснащённый этим двигателем, разгоняется с места до 100 км/ч за 6,9 секунды. При этом расход топлива в смешанном цикле составляет всего 8,1л* на 100 километров (по циклу NEDC).
-Кузов KNEWSTAR 001 выполнен из высокопрочной стали, доля которой составляет более 72%. Ещё 14% приходится на сталь горячей штамповки. Благодаря такому подходу и модульной архитектуре, которая предполагает использование технологии лазерной сварки с глубоким проплавлением, достигается высокий уровень пассивной безопасности автомобиля. Прочность соединений при таком типе сварки увеличивается на 50%.
-В KNEWSTAR 001 установлена система автоматического поддержания заданной температуры в салоне и управления кондиционером.
-Блок климат-контроля удобно расположен на центральной консоли под экраном мультимедийной системы.
-Следуя современным принципам технологичности, на экран мультимедийной системы также выведено управление функциями подогрева и вентиляции сидений, подогрева руля и лобового стекла.
-Электропривод двери багажника с системой Hands-free
-Багажная дверь KNEWSTAR 001 открывается и закрывается легко и разными способами:
-• кнопкой на ключе
-• кнопкой на двери водителя
-• кнопкой на багажной двери
-• движением ноги под центральной частью заднего бампера (функция «hands-free»).
-Благодаря функции «hands-free», Вы можете открыть и закрыть багажную дверь без помощи рук. Это удобно, когда у Вас заняты руки или Вы не хотите их пачкать в плохую погоду.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/5b66551d598d5181d84568b39f371456.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/e7c39f7527c403e7a4d2b4e245d267ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/892a5ed0054ba5861015c8b328d747c3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/c095e9c50287d3d90e9dd1eca88d5dda.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/2698a77bbeee07e5c36ad4d5cdfaf79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/438e5f518f95eaa5da51febe051a7165.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/751cd61c2494a24d28901f8a8e0d2f7c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/662cc2e6b6c8b38aa5ab1f45e6959f4a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/b4519bc7efe06a52de7dbe8cb3bfc4b7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/a76980a84ae14a74ff1244cf3433f7a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fdb27bd19d9daf2a4de5e8fa54d23e4c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fb84ce7dee0f5b194290a10e9a582073.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/bfc5c20e835920f93421c3eb9a05bebd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fd7aa4f17761d77d9c4257acd15c81a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/8b7ab66b17d2b19facad66af9114abe6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/1f56ccee621a98be9783fec58646c098.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/97e37aa6abc5122fd6a06b58edfcfd67.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fab73465c7687bc50626c73866747851.jpeg</image>
-			</images>
-		<priceWithDiscount>3715990</priceWithDiscount><sale_price>3715990</sale_price><url>https://geely-partner-samara.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>97b5ded6b87f1755588d797326fe90e7</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -4027,6 +3957,76 @@ Mы cтpемимся выcтрaивать долгоcpочные пaртнepск
 				<image>https://photo.toyotasever.ru/LHA022GD3RB003099/77e90fa58b1b3e9d7ec901b4df3c3646.jpeg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD3RB003099/e4b8e799ea83a7418e2f436388bdc14e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD3RB003099/6fddc8bced1ab134dd23f7c21b0ec471.jpeg</image>
+			</images>
+		<priceWithDiscount>3715990</priceWithDiscount><sale_price>3715990</sale_price><url>https://geely-partner-samara.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>9458007de09b7dc34be46f01fab0cd9d</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>4115990</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD4RB001569</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Купе-кроссовер 001 – это первая модель в линейке бренда KNEWSTAR с запоминающимся дизайном, премиальными материалами отделки и современными технологиями.
+Выразительный силуэт кросс-купе KNEWSTAR 001 заметен в потоке с первого взгляда. Спортивный характер автомобиля подчёркивают строгая решётка радиатора, лаконичный передний бампер и сдвоенные выхлопные патрубки в заднем бампере.
+Шведские и китайские инженеры совместно разработали современный 4-цилиндровый турбированный двигатель объёмом 2.0 литра. Он способен развивать мощность до 238 л. с. и крутящий момент до 350 Н∙м. KNEWSTAR 001, оснащённый этим двигателем, разгоняется с места до 100 км/ч за 6,9 секунды. При этом расход топлива в смешанном цикле составляет всего 8,1л* на 100 километров (по циклу NEDC).
+Кузов KNEWSTAR 001 выполнен из высокопрочной стали, доля которой составляет более 72%. Ещё 14% приходится на сталь горячей штамповки. Благодаря такому подходу и модульной архитектуре, которая предполагает использование технологии лазерной сварки с глубоким проплавлением, достигается высокий уровень пассивной безопасности автомобиля. Прочность соединений при таком типе сварки увеличивается на 50%.
+В KNEWSTAR 001 установлена система автоматического поддержания заданной температуры в салоне и управления кондиционером.
+Блок климат-контроля удобно расположен на центральной консоли под экраном мультимедийной системы.
+Следуя современным принципам технологичности, на экран мультимедийной системы также выведено управление функциями подогрева и вентиляции сидений, подогрева руля и лобового стекла.
+Электропривод двери багажника с системой Hands-free
+Багажная дверь KNEWSTAR 001 открывается и закрывается легко и разными способами:
+• кнопкой на ключе
+• кнопкой на двери водителя
+• кнопкой на багажной двери
+• движением ноги под центральной частью заднего бампера (функция «hands-free»).
+Благодаря функции «hands-free», Вы можете открыть и закрыть багажную дверь без помощи рук. Это удобно, когда у Вас заняты руки или Вы не хотите их пачкать в плохую погоду.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/5b66551d598d5181d84568b39f371456.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/e7c39f7527c403e7a4d2b4e245d267ff.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/892a5ed0054ba5861015c8b328d747c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/c095e9c50287d3d90e9dd1eca88d5dda.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/2698a77bbeee07e5c36ad4d5cdfaf79e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/438e5f518f95eaa5da51febe051a7165.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/751cd61c2494a24d28901f8a8e0d2f7c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/662cc2e6b6c8b38aa5ab1f45e6959f4a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/b4519bc7efe06a52de7dbe8cb3bfc4b7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/a76980a84ae14a74ff1244cf3433f7a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fdb27bd19d9daf2a4de5e8fa54d23e4c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fb84ce7dee0f5b194290a10e9a582073.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/bfc5c20e835920f93421c3eb9a05bebd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fd7aa4f17761d77d9c4257acd15c81a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/8b7ab66b17d2b19facad66af9114abe6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/1f56ccee621a98be9783fec58646c098.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/97e37aa6abc5122fd6a06b58edfcfd67.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD4RB001569/fab73465c7687bc50626c73866747851.jpeg</image>
 			</images>
 		<priceWithDiscount>3715990</priceWithDiscount><sale_price>3715990</sale_price><url>https://geely-partner-samara.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
