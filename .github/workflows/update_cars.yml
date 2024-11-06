@@ -90,14 +90,14 @@ jobs:
     - name: Get XML for avito
       if: ${{ vars.AVITO_XML_URL }}
       run: |
-        python3 .github/scripts/getOneXML.py --xpath "//data/cars/car" --output cars.xml
+        python3 .github/scripts/getOneXML.py --xpath "//Ads/Ad" --output cars.xml
       env:
         ENV_XML_URL: ${{ vars.AVITO_XML_URL }}
 
     - name: Generate avito xml
       if: ${{ vars.AVITO_XML_URL }}
       run: |
-        python .github/scripts/update_cars_avito.py
+        python .github/scripts/update_cars_avito_ads_ad.py
       env:
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AVITO_XML_URL }}
