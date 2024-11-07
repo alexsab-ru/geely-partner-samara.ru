@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>9f3942197c72eaa8a54575084b196c41</unique_id>
+			<unique_id>ab147ea01d633e09f21affff34216f49</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>СЕРЫЙ</color>
+			<color>ЧЕРНЫЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>1</run>
 			<year>2024</year>
 			<price>3566990</price>
 			<credit_discount>150000</credit_discount>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S68RB093208</vin>
+			<vin>LB3FX1S65RB130022</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -41,29 +41,10 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/ac03511e4088ba6d7d445d6e458b92c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/e9c04ff7db2cdf5b2232d50251bdb072.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/47f0715f22c4039f91a8a0bc1fbeb5a8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/6e6858daaa7b4c81b36df7190fd7f26e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c2fa2d792e037ceaf84cf576e667b141.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/0265a5ed7aa03706231f57ac37705ec1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/08b0a992d52c6f691df62fb191563fe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/aa6eba47de6190c9145861bd3b5495c4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c792413a63b2ff73fbcceb73b5fa81bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/9f0aada9a03f8c14b9d8359ef27b9ae3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/e29d0dea54842b3de5534e7d5dc81938.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/43b1d0b843fb624422f9c41314da0aa6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/8cca37c6e4f550d35e7fb6db7f1332c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/7ecbb369ffd31e3b986881775ce7bc7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c426600b97ca0ad427cbc7c2ad103c09.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/457fef1e2b79d4868871c211927bff20.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/ab1846aa6fb95b3d8ead69982bd4c708.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/bcc6b6e002cb3b747dc59cc91c194347.jpeg</image>
-			</images>
-		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серый-2024/</url></car>
+			<images />
+		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>111172ec29ab0a1c16b9976d0530f01e</unique_id>
+			<unique_id>0f613b6354b7a515fa977fb67f1b647e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -72,7 +53,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<wheel>левый</wheel>
 			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
@@ -104,68 +85,6 @@ Geely Atlas – ультрасовременный семейный кроссо
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
 			<images />
-		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>34f2c6b7ffd5ace34802d9a35d75fe07</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3566990</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S65RB093084</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
-Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
-Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
-Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
-10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
-Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
-
-В экстерьере:
-
-• Двухцветные колёсные диски 20” особого дизайна
-• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
-• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
-В интерьере:
-• Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/6d0388b65c47979697b35a46b7c32f66.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/571e974749504a0793eca3c0b50cd87e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/8da76f6cf4fd0ad4e4aaba6154a9ceb4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/0e4180ce0c8f8fcd78512f266262268d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/ec3542d1397b7878ecb7244ab76bde51.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/a22b4fb36f08ffd613cd124e033e560b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/cf7d793ac50c0f8e6a269adb272973bb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/5164f18d09bfe2dd2d8ac1473bea3225.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/b83fe2deefc5c1d96fa94fd88f0cd150.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/87db8383149405d8b2edf47e351af157.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/8a6321e0d1a2626340f9cbed6b7e33dc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/efa6e044f6f6008e0bb67f1a54d4a611.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/b29b99083e1a152a22ddb3a24ce324e8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/1eb2e5014f659c4b52b9f1d7f0cd92cd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/581ce13781d51820a481b443cc52d424.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/00b6686b575d15dab5ad250fa504cba0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/ecd21f1d6186677560bdc0cc278d7951.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/154312ed63ccde74e62adba03c854ec2.jpg</image>
-			</images>
 		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>2e97b497dda9c15decff5ba876f901db</unique_id>
@@ -230,6 +149,68 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-зеленый-2024/</url></car>
 		<car>
+			<unique_id>9f3942197c72eaa8a54575084b196c41</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>СЕРЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3566990</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S68RB093208</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
+Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
+Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
+Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
+10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
+Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
+
+В экстерьере:
+
+• Двухцветные колёсные диски 20” особого дизайна
+• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
+• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
+В интерьере:
+• Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/ac03511e4088ba6d7d445d6e458b92c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/e9c04ff7db2cdf5b2232d50251bdb072.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/47f0715f22c4039f91a8a0bc1fbeb5a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/6e6858daaa7b4c81b36df7190fd7f26e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c2fa2d792e037ceaf84cf576e667b141.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/0265a5ed7aa03706231f57ac37705ec1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/08b0a992d52c6f691df62fb191563fe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/aa6eba47de6190c9145861bd3b5495c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c792413a63b2ff73fbcceb73b5fa81bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/9f0aada9a03f8c14b9d8359ef27b9ae3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/e29d0dea54842b3de5534e7d5dc81938.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/43b1d0b843fb624422f9c41314da0aa6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/8cca37c6e4f550d35e7fb6db7f1332c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/7ecbb369ffd31e3b986881775ce7bc7d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/c426600b97ca0ad427cbc7c2ad103c09.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/457fef1e2b79d4868871c211927bff20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/ab1846aa6fb95b3d8ead69982bd4c708.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB093208/bcc6b6e002cb3b747dc59cc91c194347.jpeg</image>
+			</images>
+		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<car>
 			<unique_id>0882ab59afbc5f0c839b56a5d9d22041</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -273,18 +254,18 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<images />
 		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>be64a599bdd63c5afeeb629c9368b9c8</unique_id>
+			<unique_id>34f2c6b7ffd5ace34802d9a35d75fe07</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3566990</price>
 			<credit_discount>150000</credit_discount>
@@ -293,7 +274,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S65RB130022</vin>
+			<vin>LB3FX1S65RB093084</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -313,10 +294,29 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
-			<images />
-		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/6d0388b65c47979697b35a46b7c32f66.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/571e974749504a0793eca3c0b50cd87e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/8da76f6cf4fd0ad4e4aaba6154a9ceb4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/0e4180ce0c8f8fcd78512f266262268d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/ec3542d1397b7878ecb7244ab76bde51.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/a22b4fb36f08ffd613cd124e033e560b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/cf7d793ac50c0f8e6a269adb272973bb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/5164f18d09bfe2dd2d8ac1473bea3225.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/b83fe2deefc5c1d96fa94fd88f0cd150.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/87db8383149405d8b2edf47e351af157.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/8a6321e0d1a2626340f9cbed6b7e33dc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/efa6e044f6f6008e0bb67f1a54d4a611.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/b29b99083e1a152a22ddb3a24ce324e8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/1eb2e5014f659c4b52b9f1d7f0cd92cd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/581ce13781d51820a481b443cc52d424.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/00b6686b575d15dab5ad250fa504cba0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/ecd21f1d6186677560bdc0cc278d7951.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S65RB093084/154312ed63ccde74e62adba03c854ec2.jpg</image>
+			</images>
+		<priceWithDiscount>3216990</priceWithDiscount><sale_price>3216990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>8d3859f03d157d50f5a47284a2abfe0d</unique_id>
+			<unique_id>d017342f6b9672130c8bbdd8f29ac968</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -325,7 +325,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<wheel>левый</wheel>
 			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
@@ -753,67 +753,6 @@ Geely Cityray – современный технологичный кроссо
 			<images />
 		<priceWithDiscount>2399990</priceWithDiscount><sale_price>2399990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-comfort-белый-2024/</url></car>
 		<car>
-			<unique_id>2e7caba64381c2e0f032a16df200f071</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>3120990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>390000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S90RX302270</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
-Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
-Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
-Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/3dde369aef705b27aff0bcf124a8bd4e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/13b73c6807b020f0807f5dd1095d667b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/aea9f5faa3af6533e3a05b9df95b6e33.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/7282dd1a3d60ea05654739083a3a3a32.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/25529a8ac351d664ff755e049eca1ed7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/499411e0bf1f0b2bb9ae3d3757151bfd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/62d5a18ac3ab5b76021b2dbaec98482a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/aeb6f93cc61eecc8123c91648c041108.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/7b097998f057349003ecb5d40ed8ab85.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/6ab1a68d492f134a14a00a049a429fb1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/b67434cedf6f886ae1cae3d85cc75184.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/b912e462b2208d7842c54338cb618c97.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/07658764aed20b22ff0336cae99c5540.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/9f66bc79fecc2f029345ce3492cfb892.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/cf044585061b0038a8ecc53dc6873a1f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/0585b3d54dfd4ff98056afe9d080e1e4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/d6a50952f716c8fcf38de48e17fa0ebd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/5259a55dfa2cbb588bc99d48e2a1cc2b.jpg</image>
-			</images>
-		<priceWithDiscount>2730990</priceWithDiscount><sale_price>2730990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>3690ac6f331258c8a5bdd5a4bb0906c8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -875,11 +814,11 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<priceWithDiscount>2730990</priceWithDiscount><sale_price>2730990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-голубой-2024/</url></car>
 		<car>
-			<unique_id>50bfa641b492e916084eff3352c41720</unique_id>
+			<unique_id>2e7caba64381c2e0f032a16df200f071</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
@@ -888,14 +827,14 @@ Geely Cityray – современный технологичный кроссо
 			<custom>растаможен</custom>
 			<run>2</run>
 			<year>2024</year>
-			<price>3160990</price>
+			<price>3120990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>390000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S90RX304665</vin>
+			<vin>LB3G43S90RX302270</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -915,26 +854,26 @@ Geely Cityray – современный технологичный кроссо
 Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
 Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/e9d6892d8ad73977697aa696ed2d3977.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/1e1a639cf473bb9216d1f473142f6147.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/c2cefc8457cdeca5ae0bbff0ccea72e1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/53ebb22c73cb1f10dce0f3a9893ad87d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/618bb98368e11351a50ccfbed3767633.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/fd09298e590396c6ec07220eac0367d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/23f9130befb2434bdbf97435e32bcdef.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/96ed07e40b4c85a622c4bfba9465cc23.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/ea0f94fd5a9786f4288605c8a369cdc9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/fa66e6d497b2aa1b3507cbdd2b81195c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/d491e42cba469a9c9798a1d5d617b424.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/9c0388984717e8887c537f1ea8c38a48.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/07694192a05c81b0e90270a8d87ecd50.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/a2b5249b7dde7bc99290e2640eebe533.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/dd42f0f61023a7324d0221d03d7f3342.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/a66d4a6703ad278cdbfbafd56bd8d35a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/d4ba55f08e559542965bfc5e5e4e42b9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/2c000abe3eb06f0c5750cafa1dab6030.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/3dde369aef705b27aff0bcf124a8bd4e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/13b73c6807b020f0807f5dd1095d667b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/aea9f5faa3af6533e3a05b9df95b6e33.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/7282dd1a3d60ea05654739083a3a3a32.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/25529a8ac351d664ff755e049eca1ed7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/499411e0bf1f0b2bb9ae3d3757151bfd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/62d5a18ac3ab5b76021b2dbaec98482a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/aeb6f93cc61eecc8123c91648c041108.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/7b097998f057349003ecb5d40ed8ab85.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/6ab1a68d492f134a14a00a049a429fb1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/b67434cedf6f886ae1cae3d85cc75184.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/b912e462b2208d7842c54338cb618c97.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/07658764aed20b22ff0336cae99c5540.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/9f66bc79fecc2f029345ce3492cfb892.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/cf044585061b0038a8ecc53dc6873a1f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/0585b3d54dfd4ff98056afe9d080e1e4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/d6a50952f716c8fcf38de48e17fa0ebd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX302270/5259a55dfa2cbb588bc99d48e2a1cc2b.jpg</image>
 			</images>
-		<priceWithDiscount>2770990</priceWithDiscount><sale_price>2770990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-серый-2024/</url></car>
+		<priceWithDiscount>2730990</priceWithDiscount><sale_price>2730990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>31155cc3e60e9580f2f3fec413d143db</unique_id>
 			<mark_id>Geely</mark_id>
@@ -997,69 +936,27 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<priceWithDiscount>2770990</priceWithDiscount><sale_price>2770990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-серый-2024/</url></car>
 		<car>
-			<unique_id>2d03efe637e9be7588292ab0ae1df4c4</unique_id>
+			<unique_id>50bfa641b492e916084eff3352c41720</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
+			<complectation_name>Flagship Sport</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
-			<price>3000990</price>
+			<price>3160990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>390000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S91RX303637</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
-Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
-Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
-Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
-			<images />
-		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>29a95ccbe4a7d48c325c1466731fa332</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Голубой</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3000990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>390000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S93RX301579</vin>
+			<vin>LB3G43S90RX304665</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -1079,26 +976,26 @@ Geely Cityray – современный технологичный кроссо
 Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
 Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/3bf162ec73090264b9dfe7946f0fed34.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/bac385408e84289c41fdae8fc09b9053.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/f1e2a4ee6448c18499339077eace764b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/1d855b2f971e3e0467844e95598e0817.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/77c1a1c46ffac91ea65bb783447d03a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/8993c4579726ca3939339743c041d7ab.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/4f2d294fbe19addbdd56544635d43374.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/04d2700d2287c699f4d7e6b6558b849b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/7aa3922b167b616588dbf879fcb808ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/9ef7ae05c9be4e3f948d762a37daaa5a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/bfe256c837994faf2e6fb5cf14588fe2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/ce0df7c1fbccbab8cf6346cf66682004.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/b454bbd613ef8bbe681306be5ccf9503.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/a53acd0b1e5b2beb26b89073720249d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/10c60e161bc6f6ab0ef9709376fb6882.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/1e9669f53eabcce20789b9d0201d5dc4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/0b14ba851803127b5dad02fff3c04265.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/fb7c051af81166dc4ccd170748ea9537.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/e9d6892d8ad73977697aa696ed2d3977.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/1e1a639cf473bb9216d1f473142f6147.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/c2cefc8457cdeca5ae0bbff0ccea72e1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/53ebb22c73cb1f10dce0f3a9893ad87d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/618bb98368e11351a50ccfbed3767633.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/fd09298e590396c6ec07220eac0367d5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/23f9130befb2434bdbf97435e32bcdef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/96ed07e40b4c85a622c4bfba9465cc23.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/ea0f94fd5a9786f4288605c8a369cdc9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/fa66e6d497b2aa1b3507cbdd2b81195c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/d491e42cba469a9c9798a1d5d617b424.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/9c0388984717e8887c537f1ea8c38a48.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/07694192a05c81b0e90270a8d87ecd50.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/a2b5249b7dde7bc99290e2640eebe533.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/dd42f0f61023a7324d0221d03d7f3342.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/a66d4a6703ad278cdbfbafd56bd8d35a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/d4ba55f08e559542965bfc5e5e4e42b9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S90RX304665/2c000abe3eb06f0c5750cafa1dab6030.jpeg</image>
 			</images>
-		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-голубой-2024/</url></car>
+		<priceWithDiscount>2770990</priceWithDiscount><sale_price>2770990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>0916d41b144b88abb5b26dc6e3e906a8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1161,6 +1058,67 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-серый-2024/</url></car>
 		<car>
+			<unique_id>29a95ccbe4a7d48c325c1466731fa332</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Голубой</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3000990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>390000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S93RX301579</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
+Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
+Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
+Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/3bf162ec73090264b9dfe7946f0fed34.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/bac385408e84289c41fdae8fc09b9053.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/f1e2a4ee6448c18499339077eace764b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/1d855b2f971e3e0467844e95598e0817.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/77c1a1c46ffac91ea65bb783447d03a9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/8993c4579726ca3939339743c041d7ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/4f2d294fbe19addbdd56544635d43374.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/04d2700d2287c699f4d7e6b6558b849b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/7aa3922b167b616588dbf879fcb808ff.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/9ef7ae05c9be4e3f948d762a37daaa5a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/bfe256c837994faf2e6fb5cf14588fe2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/ce0df7c1fbccbab8cf6346cf66682004.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/b454bbd613ef8bbe681306be5ccf9503.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/a53acd0b1e5b2beb26b89073720249d2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/10c60e161bc6f6ab0ef9709376fb6882.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/1e9669f53eabcce20789b9d0201d5dc4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/0b14ba851803127b5dad02fff3c04265.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX301579/fb7c051af81166dc4ccd170748ea9537.jpeg</image>
+			</images>
+		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-голубой-2024/</url></car>
+		<car>
 			<unique_id>3be55609e0fd84b593ea2735a13b2512</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -1222,27 +1180,27 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-серый-2024/</url></car>
 		<car>
-			<unique_id>5785df15c8b68c4bf040e5195714be7e</unique_id>
+			<unique_id>2d03efe637e9be7588292ab0ae1df4c4</unique_id>
 			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
+			<complectation_name>Luxury</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
-			<price>2995990</price>
-			<credit_discount>100000</credit_discount>
+			<price>3000990</price>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
+			<max_discount>390000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37622Z9RX537951</vin>
+			<vin>LB3G43S91RX303637</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -1256,16 +1214,13 @@ Mы cтpемимся выcтрaивать долгоcpочные пaртнepск
 
 ✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
 
-Geely Coolray — яркий образец современного спортивного стиля. Когда он появляется на улицах, город оживает.
-Coolray стал еще ярче и совершеннее. Этот автомобиль раскроет ваш потенциал, зарядит энергией, подчеркнет индивидуальный стиль и стремление к свободе.
-
-Новый статус Coolray чувствуется во всем. И прежде всего в еще более дерзком и привлекательном дизайне.
-Сердце Coolray – абсолютно новый 4-цилиндровый турбомотор объемом 1,5 литра и мощностью 147 лошадиных сил, разработанный Geely совместно со шведскими инженерами. Он развивает крутящий момент 270 ньютон-метров, который поддерживается в широком диапазоне - от 2000 до 3500 оборотов в минуту. Это обеспечивает мощное и равномерное ускорение с 0 до 100 км/ч за 8,1 секунды.
-Управление всеми функциями мультимедийной системы сосредоточено в ультратонком экране высокого разрешения с диагональю 12,3 дюйма*. Проекция смартфона, система камер кругового обзора с функцией «прозрачное шасси», видеорегистратор, управление климатом, музыкой и приложениями собраны в один простой и интуитивно понятный интерфейс.
-Передовая модульная архитектура Geely BMA позволяет использовать самые современные наработки в области безопасности и экологии, обеспечить повышенный уровень автоматизации производства и высокое качество.
-Система камер кругового обзора с функцией “прозрачное шасси” обеспечивает водителю наглядную информацию об окружающих препятствиях и улучшенную безопасность при маневрировании, позволяя выводить на экран виртуальный вид под автомобилем. Она объединяет данные с 4-х камер для создания объемного изображения, доступного к просмотру в различных режимах.</description>
+Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
+Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
+Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
+Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
 			<images />
-		<priceWithDiscount>2695990</priceWithDiscount><sale_price>2695990</sale_price><url>https://geely-partner-samara.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<priceWithDiscount>2610990</priceWithDiscount><sale_price>2610990</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>0ce6d408670d48bf65c6becfe65566f6</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1329,6 +1284,51 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 				<image>https://photo.toyotasever.ru/LB37622Z4RX534830/0f5624c255f2f0c2e4ed839382834828.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB37622Z4RX534830/229880bab6c7ef88bcedcd41ee7915b6.jpeg</image>
 			</images>
+		<priceWithDiscount>2695990</priceWithDiscount><sale_price>2695990</sale_price><url>https://geely-partner-samara.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>5785df15c8b68c4bf040e5195714be7e</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>2995990</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z9RX537951</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Geely Coolray — яркий образец современного спортивного стиля. Когда он появляется на улицах, город оживает.
+Coolray стал еще ярче и совершеннее. Этот автомобиль раскроет ваш потенциал, зарядит энергией, подчеркнет индивидуальный стиль и стремление к свободе.
+
+Новый статус Coolray чувствуется во всем. И прежде всего в еще более дерзком и привлекательном дизайне.
+Сердце Coolray – абсолютно новый 4-цилиндровый турбомотор объемом 1,5 литра и мощностью 147 лошадиных сил, разработанный Geely совместно со шведскими инженерами. Он развивает крутящий момент 270 ньютон-метров, который поддерживается в широком диапазоне - от 2000 до 3500 оборотов в минуту. Это обеспечивает мощное и равномерное ускорение с 0 до 100 км/ч за 8,1 секунды.
+Управление всеми функциями мультимедийной системы сосредоточено в ультратонком экране высокого разрешения с диагональю 12,3 дюйма*. Проекция смартфона, система камер кругового обзора с функцией «прозрачное шасси», видеорегистратор, управление климатом, музыкой и приложениями собраны в один простой и интуитивно понятный интерфейс.
+Передовая модульная архитектура Geely BMA позволяет использовать самые современные наработки в области безопасности и экологии, обеспечить повышенный уровень автоматизации производства и высокое качество.
+Система камер кругового обзора с функцией “прозрачное шасси” обеспечивает водителю наглядную информацию об окружающих препятствиях и улучшенную безопасность при маневрировании, позволяя выводить на экран виртуальный вид под автомобилем. Она объединяет данные с 4-х камер для создания объемного изображения, доступного к просмотру в различных режимах.</description>
+			<images />
 		<priceWithDiscount>2695990</priceWithDiscount><sale_price>2695990</sale_price><url>https://geely-partner-samara.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>4becb7be39c9245527166ea5c90d2ef0</unique_id>
@@ -1458,14 +1458,14 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 			</images>
 		<priceWithDiscount>2665990</priceWithDiscount><sale_price>2665990</sale_price><url>https://geely-partner-samara.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>bfb5387c3c4e05899b5871926259ba3f</unique_id>
+			<unique_id>77abc8593ba9fa0d333cce06ae23718c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
+			<color>ТЕМНО-СИНИЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1478,7 +1478,7 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F3103XRG041764</vin>
+			<vin>LB3F3103XRG041604</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -1504,27 +1504,8 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 Крепление для детского кресла и блокировка замков задних дверей делают этот автомобиль идеальным выбором для семей с детьми. Подушки безопасности водителя и пассажира, а также система помощи при старте в гору обеспечивают дополнительную защиту в случае аварии.
 
 Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/e28c415c1ee324af0c4c66568e0f4bb9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/8b714438fe84c8ce8f1771733e32b7be.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/0dccfeadca894dae550db9c4682f6b77.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/97e1ba5451fe360d9187458aef657b20.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/46938273a73d34e3294a215b019233f6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/3a20b7db9c380b6ea3ca63642441ce11.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/e241426a9a921e872b1e16538f37d878.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/dde4a79d937f3b029330beafe893c26a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/b747401f4f23cdfc62bc7fd052134256.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/0eb6b6884ac535fb1726fe35f6820982.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/ed7f7794cbddadd42d1fa49f3a8d5803.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/3b46cdf289fb5efdcd8d3d5f8cbb5238.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/c83e598f2ced3b85f5c4c364ab77e90e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/1b75d6708facbca442b2b1eff67f6613.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/ede4e4ab5c9c6b0116e7a0ee44af0d36.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/1010445d69be8ee9b26360826a4f5661.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/b5aa978ceea3698248c1cb9727e0acf3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/68624c85b981caef15a3f653f42b9a04.jpeg</image>
-			</images>
-		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
+			<images />
+		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-темно-синий-2024/</url></car>
 		<car>
 			<unique_id>941d9e136b87c950f0f0a996c8af7ae9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1594,14 +1575,14 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 			</images>
 		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-серый-2024/</url></car>
 		<car>
-			<unique_id>77abc8593ba9fa0d333cce06ae23718c</unique_id>
+			<unique_id>bfb5387c3c4e05899b5871926259ba3f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
-			<color>ТЕМНО-СИНИЙ</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1614,56 +1595,7 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F3103XRG041604</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-
-Откройте для себя мир комфорта и безопасности с новым Gееly Еmgrаnd II 2024 года! Этот седан оснащён автоматической коробкой передач и бензиновым двигателем объёмом 1,5 литра и мощностью 122 лошадиные силы.
-
-Gееly Еmgrаnd II — это идеальный выбор для тех, кто ценит комфорт и удобство. В автомобиле установлен климат-контроль, который позволит вам наслаждаться поездкой в любую погоду. Регулировка руля по высоте и вылету, а также подогрев передних сидений обеспечат дополнительный комфорт во время вождения.
-
-Еmgrаnd II также оснащён рядом современных функций, которые делают поездку ещё более приятной и безопасной. Электростеклоподъёмники, бортовой компьютер, датчик давления в шинах, дистанционный запуск двигателя и запуск двигателя с кнопки — всё это делает управление автомобилем максимально удобным.
-
-Благодаря заднему парктронику, системе доступа без ключа и усилителю рулевого управления, вождение становится ещё более приятным и безопасным. Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), антипробуксовочная система (АSR / ТСS / ТRС) обеспечивают дополнительную безопасность на дороге.
-
-Крепление для детского кресла и блокировка замков задних дверей делают этот автомобиль идеальным выбором для семей с детьми. Подушки безопасности водителя и пассажира, а также система помощи при старте в гору обеспечивают дополнительную защиту в случае аварии.
-
-Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
-			<images />
-		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-темно-синий-2024/</url></car>
-		<car>
-			<unique_id>794eba5930e2d2368b55d81bdd8e11a0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>2457990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31032RG038177</vin>
+			<vin>LB3F3103XRG041764</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -1690,24 +1622,24 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 
 Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/b0a8a1833352a53d73a83bd6145f5766.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/283e32f2f5885d648336371ca78db5a4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/05f90c1803c090ed67e10f30d84fca29.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/b4aa8176bed5c84bc88e572373ab688d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/28f66f13ad4bf5d521d1aeb648b56659.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/14c8c52456b1ec293c4f5e4ddd9785c0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f746e09ce003a591d7f114a8ece76cb3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/6b1b80d75850a165a0598678dad4a9f3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f99ceb13d150b3b66e39e43dedf1f570.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/9bf6d30ee9d767f21b45ee656a17f0c3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/ab261aedd3004c72f8e7f26b0d3602bb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f2122271b4dbfe9bca707f03d809e251.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/9b4141bf60012cf9d80fb40a119c83ba.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/a98b72da87d9bdeb645bbf6d8d4976bb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/4c70440ba977dd4fab1c3864ce14143f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/3b1699cc81bc033cf8a13934233ebcaa.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/ee949a5d983904bb644b4201a76dced7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3F31032RG038177/5409278749fd3adb41e5823c49a48e34.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/e28c415c1ee324af0c4c66568e0f4bb9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/8b714438fe84c8ce8f1771733e32b7be.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/0dccfeadca894dae550db9c4682f6b77.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/97e1ba5451fe360d9187458aef657b20.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/46938273a73d34e3294a215b019233f6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/3a20b7db9c380b6ea3ca63642441ce11.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/e241426a9a921e872b1e16538f37d878.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/dde4a79d937f3b029330beafe893c26a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/b747401f4f23cdfc62bc7fd052134256.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/0eb6b6884ac535fb1726fe35f6820982.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/ed7f7794cbddadd42d1fa49f3a8d5803.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/3b46cdf289fb5efdcd8d3d5f8cbb5238.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/c83e598f2ced3b85f5c4c364ab77e90e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/1b75d6708facbca442b2b1eff67f6613.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/ede4e4ab5c9c6b0116e7a0ee44af0d36.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/1010445d69be8ee9b26360826a4f5661.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/b5aa978ceea3698248c1cb9727e0acf3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F3103XRG041764/68624c85b981caef15a3f653f42b9a04.jpeg</image>
 			</images>
 		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
@@ -1776,6 +1708,74 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 				<image>https://photo.toyotasever.ru/LB3F31039RG041805/07776863a7c901aebb79b9f83236fabd.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3F31039RG041805/b34e99d7f4288ddf0682cd1656340f4b.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3F31039RG041805/8fbce513fede6b60a31013447e0613af.jpeg</image>
+			</images>
+		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>794eba5930e2d2368b55d81bdd8e11a0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>2457990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31032RG038177</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+
+Откройте для себя мир комфорта и безопасности с новым Gееly Еmgrаnd II 2024 года! Этот седан оснащён автоматической коробкой передач и бензиновым двигателем объёмом 1,5 литра и мощностью 122 лошадиные силы.
+
+Gееly Еmgrаnd II — это идеальный выбор для тех, кто ценит комфорт и удобство. В автомобиле установлен климат-контроль, который позволит вам наслаждаться поездкой в любую погоду. Регулировка руля по высоте и вылету, а также подогрев передних сидений обеспечат дополнительный комфорт во время вождения.
+
+Еmgrаnd II также оснащён рядом современных функций, которые делают поездку ещё более приятной и безопасной. Электростеклоподъёмники, бортовой компьютер, датчик давления в шинах, дистанционный запуск двигателя и запуск двигателя с кнопки — всё это делает управление автомобилем максимально удобным.
+
+Благодаря заднему парктронику, системе доступа без ключа и усилителю рулевого управления, вождение становится ещё более приятным и безопасным. Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), антипробуксовочная система (АSR / ТСS / ТRС) обеспечивают дополнительную безопасность на дороге.
+
+Крепление для детского кресла и блокировка замков задних дверей делают этот автомобиль идеальным выбором для семей с детьми. Подушки безопасности водителя и пассажира, а также система помощи при старте в гору обеспечивают дополнительную защиту в случае аварии.
+
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/b0a8a1833352a53d73a83bd6145f5766.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/283e32f2f5885d648336371ca78db5a4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/05f90c1803c090ed67e10f30d84fca29.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/b4aa8176bed5c84bc88e572373ab688d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/28f66f13ad4bf5d521d1aeb648b56659.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/14c8c52456b1ec293c4f5e4ddd9785c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f746e09ce003a591d7f114a8ece76cb3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/6b1b80d75850a165a0598678dad4a9f3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f99ceb13d150b3b66e39e43dedf1f570.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/9bf6d30ee9d767f21b45ee656a17f0c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/ab261aedd3004c72f8e7f26b0d3602bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/f2122271b4dbfe9bca707f03d809e251.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/9b4141bf60012cf9d80fb40a119c83ba.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/a98b72da87d9bdeb645bbf6d8d4976bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/4c70440ba977dd4fab1c3864ce14143f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/3b1699cc81bc033cf8a13934233ebcaa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/ee949a5d983904bb644b4201a76dced7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3F31032RG038177/5409278749fd3adb41e5823c49a48e34.jpeg</image>
 			</images>
 		<priceWithDiscount>2107990</priceWithDiscount><sale_price>2107990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
@@ -1945,6 +1945,80 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 			<images />
 		<priceWithDiscount>2287990</priceWithDiscount><sale_price>2287990</sale_price><url>https://geely-partner-samara.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>b644d49fc16b6e517a8b6d72a8288024</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>СИНИЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>400000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>750000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D2RS120345</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+В нaличии нoвый Geely MONJАRО, 2024 годa
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/f26316cd00f62c84db0e6ec0c73c5580.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/6f7b6963d37a3370d8ea77e969cc5242.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/e667f792bf82ab2fbcdb7c4456d2a094.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/2bc5e1d10368d2ae3e43dbab6346d498.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1d2ceba027c15263477d09054611a2e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/2c462c95b628dc5fb27f2054c2c3c89d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/a7edee51d90dccfaa19cf6221e06c17b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/438f3cff8d75760a678f9518c8778ba8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/0ba69741d512451e2a88190841f497a9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/edae786d31fd75c5f4774d834be3e005.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1ab198394ee7831305415fa9209bef88.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/3d20ab449790ddb9974acad5840fe421.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/e5ef5d91718f305bab78e49b78ab0f1b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/28323d9dc17f1ad969cc676f5e12cb26.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1bd55e10b537983fd93ee083b7ef9863.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/b7961b54f0364f8522b0e130e7ace2b6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/3b17740373f8251ebd623ca9d53b3a24.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS120345/9d4de4b792003043f2aabbb508b40ef7.jpg</image>
+			</images>
+		<priceWithDiscount>4182990</priceWithDiscount><sale_price>4182990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
 			<unique_id>d32b42bc477d49d952d728ff03a263d4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -2016,80 +2090,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/9aba4699da7e5704b2ca4ee1ffb966c5.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/0996782d6d607837979adf653929ca6f.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/4a7dd71e45bd13321b8581c55e978bab.jpg</image>
-			</images>
-		<priceWithDiscount>4182990</priceWithDiscount><sale_price>4182990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>53337f1abba080a8321c488bdccfaf0e</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>СИНИЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4932990</price>
-			<credit_discount>400000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>750000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS126444</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-В нaличии нoвый Geely MONJАRО, 2024 годa
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/d24fe89fa7d69655d34c96b0a4935921.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/0ff336da53fc2fac19ffa0b3369f79fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/164bc4cb88aaed7c2c114f82a239d970.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c38483bf61d39b1b1223f494f942d8e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/1126969a056a7e31eb4c4d4613572254.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/32715ab880cc503b4b5fa65646ce9b60.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/b358e9428f11cf17e80a0c9c3f39d630.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c7ca3a1b5de21f119d4f024e8b188d03.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/4b50bba1756c4f2a945cb267b8ba575f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/f98d3aa16d580b47a1cf12b59a113e01.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/1f2c5c89a14324d9f5a13be10998e191.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/5c121db918bab94fd7a449e6b7a7f25e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/834e7c999865376694b1b03616cf5337.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/cd1f7d8f76645b4f7f9a4ad38cd4ec22.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c54761ac1804e8ce8475b8825bf52bbc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/5b01dc72b144519d82e09db3db22ab61.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/ad7be189273d273c19b8e3a02de2056f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS126444/bfade91a861610df4cdd9341a11f4451.jpg</image>
 			</images>
 		<priceWithDiscount>4182990</priceWithDiscount><sale_price>4182990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
@@ -2389,7 +2389,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<priceWithDiscount>4182990</priceWithDiscount><sale_price>4182990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>b644d49fc16b6e517a8b6d72a8288024</unique_id>
+			<unique_id>53337f1abba080a8321c488bdccfaf0e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -2400,7 +2400,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>400000</credit_discount>
@@ -2409,7 +2409,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<optional_discount>0</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D2RS120345</vin>
+			<vin>LB37852D1RS126444</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -2442,24 +2442,24 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/f26316cd00f62c84db0e6ec0c73c5580.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/6f7b6963d37a3370d8ea77e969cc5242.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/e667f792bf82ab2fbcdb7c4456d2a094.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/2bc5e1d10368d2ae3e43dbab6346d498.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1d2ceba027c15263477d09054611a2e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/2c462c95b628dc5fb27f2054c2c3c89d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/a7edee51d90dccfaa19cf6221e06c17b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/438f3cff8d75760a678f9518c8778ba8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/0ba69741d512451e2a88190841f497a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/edae786d31fd75c5f4774d834be3e005.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1ab198394ee7831305415fa9209bef88.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/3d20ab449790ddb9974acad5840fe421.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/e5ef5d91718f305bab78e49b78ab0f1b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/28323d9dc17f1ad969cc676f5e12cb26.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/1bd55e10b537983fd93ee083b7ef9863.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/b7961b54f0364f8522b0e130e7ace2b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/3b17740373f8251ebd623ca9d53b3a24.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS120345/9d4de4b792003043f2aabbb508b40ef7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/d24fe89fa7d69655d34c96b0a4935921.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/0ff336da53fc2fac19ffa0b3369f79fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/164bc4cb88aaed7c2c114f82a239d970.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c38483bf61d39b1b1223f494f942d8e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/1126969a056a7e31eb4c4d4613572254.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/32715ab880cc503b4b5fa65646ce9b60.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/b358e9428f11cf17e80a0c9c3f39d630.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c7ca3a1b5de21f119d4f024e8b188d03.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/4b50bba1756c4f2a945cb267b8ba575f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/f98d3aa16d580b47a1cf12b59a113e01.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/1f2c5c89a14324d9f5a13be10998e191.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/5c121db918bab94fd7a449e6b7a7f25e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/834e7c999865376694b1b03616cf5337.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/cd1f7d8f76645b4f7f9a4ad38cd4ec22.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/c54761ac1804e8ce8475b8825bf52bbc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/5b01dc72b144519d82e09db3db22ab61.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/ad7be189273d273c19b8e3a02de2056f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS126444/bfade91a861610df4cdd9341a11f4451.jpg</image>
 			</images>
 		<priceWithDiscount>4182990</priceWithDiscount><sale_price>4182990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
@@ -2537,7 +2537,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<priceWithDiscount>3676990</priceWithDiscount><sale_price>3676990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-серебристый-2024/</url></car>
 		<car>
-			<unique_id>b251811d04b552b097cc70d81dc03aaa</unique_id>
+			<unique_id>4f7b984d1a65057e9211eca1cc73a9b8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -2548,7 +2548,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>300000</credit_discount>
@@ -2557,7 +2557,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7RS124908</vin>
+			<vin>LB37852D2RS087850</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -2590,24 +2590,172 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/8b27debc6e3a2e994dc31be78c7473d6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/90543cce7b0ffeaab7143ddc91a79a34.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/fde12ea2b888038d8605093f78d8b37e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/cb13daeebeca08d133b0d8d759ee15ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b581761cbe6982f429b535582f7cdc14.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/6647b497a98b74c6d7397062d4d668ba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/546752fb408128ade1193f6253f71a79.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b69e8425b764d4717c73e0623915b682.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/1fe3c586c1ecf02c91b92765db07706d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b1a128e89fb594e359ef6cb353ce73cb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/252d8fd961e75754f13c4c91895cf824.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/c2da1f1ec9331b601814cca223a1c241.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/4227662aebe57947bcab4bf1b56ba5fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/84ccde4bc7da4e83fa29ba17c266e31d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/cb40bd327a54d23e02144c4e80d74b3c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/8d4c656e8f4c8b6033d56a07f669b184.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/689faf2a9cfeaa920b3bb3f13fa5f150.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS124908/70a8ce46c25ff2368805d783db284cec.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/1c8d8b4bb5223addf20a9a761ef6691a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/49cdbd37b22c173adb23c8b39b9d2fb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a7a62420166b49ffe2d709fda51bc0f5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a579e0c93d24c221e82b3e62321f72e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/96a1a2cc6f487197f6f60c4167a9f166.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/e8aa1d87713b50cf7f153e8cb2cd3a5d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/14dae8ab0862b2c269f3571ffc11c90e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/be62ef26d7acdd97843f293c7112cce1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/f04f1a22faed61d0cc9366124f20cda4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/f4b9993e0d22661ac4c9caf20d027d87.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a7e61d4628d935420a3ee9239d2d507c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/cfb02b801df7108d9b80bf37285ff70b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/b16d8d5c61d28c5c005c301c94f201af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/fc7ca14a4cab94f83956d163cffe38a1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/c5fd3dd11290446fa1837a82dba8c977.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/056964aaf949389621da7f6657ed885e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/3a821ce26e91c4d34d8f4544d157aaff.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS087850/31ebd6a0d3e55c7f6e0e03735fb663cb.jpg</image>
+			</images>
+		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>2d092ad747186c098cc81bdbde859345</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>300000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>650000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS119056</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+В нaличии нoвый Geely MONJАRО, 2024 годa
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/ca9f5e705015606749168f6786a5963c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/1996875609d1304285d62f186b0c12ec.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/46dda4c172fe99094e82b3d8c9f680d6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/998c1ca9c5a156c07dcce4169b896700.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/df43e9184f3d2de4b2b6482bdffdf1a3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/92a859e3cf0af01d451820ad2f0eedc3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/91b7c914ae92957e05b725f665defeb8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/5ba3a13bc1aa6884d4ddf66d0a767376.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f2da02125de727899688e3cf2a661fef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/756eb24347b96ba87e179d59aa19c1b6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/257c393a0c074f761fa2b7811e684426.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/4d0460123c036644f50bd0dcc0db0e92.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f15bb599fd1f68f2f331377ab297baff.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/e9147d08f3c2ac6690c517dfc3f64899.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f316e8da12d8c9c522a6f1bf552f351a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/599247ae822bb9b8d5e354fb23b00bb3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/72ee004e4b195792d5bc88e6111bf5bc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS119056/cda602c8a1303ea277ced649485b404b.jpg</image>
+			</images>
+		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>fe2f4a1d82925763c4f2591e49fefdef</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>300000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>650000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D4RS126647</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+В нaличии нoвый Geely MONJАRО, 2024 годa
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6ddead760e1a31405a8e0684e1c901c0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d49c1945ad0a1dc449c9e539505bd57.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/16bfda7619f2587fe48e5402ede735fa.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c916ceb0e9e818aab4a7404582c3052b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/26c7db0db8d61123d5f061c2de3e80c4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/293f73b5180d4a1671e3fb7a6d317139.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6c6d3c9a76d1a541eb9f28af3f5a1fa0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c4bedbb9efb8c1dbd1885fffa52f5df1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/35c539efd6823a4bab452b21ca35ed25.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/87ba90ec7db67077302e6a94e54864ea.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/e2fcf54c19193ef48a21eecece99c918.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/8f8af6a7de23cfb5e025e0d3992a228e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/efa4da25087f1eadb6192556987700ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/9258ca4a770db6d0326475ac6a3ce909.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6929d54876f36d632183c127ad7eaa34.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5fe03ea20e7048f8422c239e59f21e72.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d3bed4fac1002ac57cc13623ab043ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c5b985f5a25baea22b6ef1c36a1a91a6.jpg</image>
 			</images>
 		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
@@ -2759,7 +2907,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
-			<unique_id>4f7b984d1a65057e9211eca1cc73a9b8</unique_id>
+			<unique_id>b251811d04b552b097cc70d81dc03aaa</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -2770,7 +2918,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>300000</credit_discount>
@@ -2779,7 +2927,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D2RS087850</vin>
+			<vin>LB37852D7RS124908</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -2812,48 +2960,48 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/1c8d8b4bb5223addf20a9a761ef6691a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/49cdbd37b22c173adb23c8b39b9d2fb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a7a62420166b49ffe2d709fda51bc0f5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a579e0c93d24c221e82b3e62321f72e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/96a1a2cc6f487197f6f60c4167a9f166.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/e8aa1d87713b50cf7f153e8cb2cd3a5d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/14dae8ab0862b2c269f3571ffc11c90e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/be62ef26d7acdd97843f293c7112cce1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/f04f1a22faed61d0cc9366124f20cda4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/f4b9993e0d22661ac4c9caf20d027d87.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/a7e61d4628d935420a3ee9239d2d507c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/cfb02b801df7108d9b80bf37285ff70b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/b16d8d5c61d28c5c005c301c94f201af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/fc7ca14a4cab94f83956d163cffe38a1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/c5fd3dd11290446fa1837a82dba8c977.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/056964aaf949389621da7f6657ed885e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/3a821ce26e91c4d34d8f4544d157aaff.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS087850/31ebd6a0d3e55c7f6e0e03735fb663cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/8b27debc6e3a2e994dc31be78c7473d6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/90543cce7b0ffeaab7143ddc91a79a34.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/fde12ea2b888038d8605093f78d8b37e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/cb13daeebeca08d133b0d8d759ee15ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b581761cbe6982f429b535582f7cdc14.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/6647b497a98b74c6d7397062d4d668ba.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/546752fb408128ade1193f6253f71a79.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b69e8425b764d4717c73e0623915b682.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/1fe3c586c1ecf02c91b92765db07706d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/b1a128e89fb594e359ef6cb353ce73cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/252d8fd961e75754f13c4c91895cf824.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/c2da1f1ec9331b601814cca223a1c241.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/4227662aebe57947bcab4bf1b56ba5fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/84ccde4bc7da4e83fa29ba17c266e31d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/cb40bd327a54d23e02144c4e80d74b3c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/8d4c656e8f4c8b6033d56a07f669b184.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/689faf2a9cfeaa920b3bb3f13fa5f150.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS124908/70a8ce46c25ff2368805d783db284cec.jpg</image>
 			</images>
 		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
-			<unique_id>fe2f4a1d82925763c4f2591e49fefdef</unique_id>
+			<unique_id>188890390e36857163cf6a3dd24e0e3d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>1</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4732990</price>
 			<credit_discount>300000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D4RS126647</vin>
+			<vin>LB37852D1RS155975</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -2886,48 +3034,48 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6ddead760e1a31405a8e0684e1c901c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d49c1945ad0a1dc449c9e539505bd57.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/16bfda7619f2587fe48e5402ede735fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c916ceb0e9e818aab4a7404582c3052b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/26c7db0db8d61123d5f061c2de3e80c4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/293f73b5180d4a1671e3fb7a6d317139.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6c6d3c9a76d1a541eb9f28af3f5a1fa0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c4bedbb9efb8c1dbd1885fffa52f5df1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/35c539efd6823a4bab452b21ca35ed25.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/87ba90ec7db67077302e6a94e54864ea.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/e2fcf54c19193ef48a21eecece99c918.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/8f8af6a7de23cfb5e025e0d3992a228e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/efa4da25087f1eadb6192556987700ae.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/9258ca4a770db6d0326475ac6a3ce909.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6929d54876f36d632183c127ad7eaa34.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5fe03ea20e7048f8422c239e59f21e72.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d3bed4fac1002ac57cc13623ab043ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c5b985f5a25baea22b6ef1c36a1a91a6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/18bc39fccc56ea35e8393fee68071aca.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/03a7ba3ed84ddf07102c93abbd333a4c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/0931ca63c17bfcc6f23055ad76a09dfd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/221025af9a165a9709be57237181403b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/1e42d689c26c646fba1d9604cd4a95d5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/153b47110e88684e99d2592810df0d33.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/c8acec60d4f2b214c3e5e56af9ad8c17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/4005c07153a63a1aea6627f6132b8bdf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/38b740ecb7163021b35a845d44bed82b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/4ddc1a73eec52f9218a9d77acd4f18d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/e259aeed0350f61eaec4ad4efca9205f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/7e013163a4ed0573183d97e6ff5d89d0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/9f182779ec3ccbd9119b8edcdcff3d20.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/ad0dcf52de67f3ec78a5a9fc6127a44a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/cdaf5543dda52d8daf70ff949f8e6e46.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/e6ed639a2ee6f348e0595212fc952f4d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/ab94dd39688b426a1effe1c2a0bd8f75.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS155975/c87df275dd658c014a750a722086efda.jpg</image>
 			</images>
-		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>2d092ad747186c098cc81bdbde859345</unique_id>
+			<unique_id>4863ca5519132ab9051ec78e322ae03c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>1</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4732990</price>
 			<credit_discount>300000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D1RS119056</vin>
+			<vin>LB37852D3RS171711</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -2960,26 +3108,26 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/ca9f5e705015606749168f6786a5963c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/1996875609d1304285d62f186b0c12ec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/46dda4c172fe99094e82b3d8c9f680d6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/998c1ca9c5a156c07dcce4169b896700.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/df43e9184f3d2de4b2b6482bdffdf1a3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/92a859e3cf0af01d451820ad2f0eedc3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/91b7c914ae92957e05b725f665defeb8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/5ba3a13bc1aa6884d4ddf66d0a767376.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f2da02125de727899688e3cf2a661fef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/756eb24347b96ba87e179d59aa19c1b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/257c393a0c074f761fa2b7811e684426.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/4d0460123c036644f50bd0dcc0db0e92.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f15bb599fd1f68f2f331377ab297baff.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/e9147d08f3c2ac6690c517dfc3f64899.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/f316e8da12d8c9c522a6f1bf552f351a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/599247ae822bb9b8d5e354fb23b00bb3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/72ee004e4b195792d5bc88e6111bf5bc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS119056/cda602c8a1303ea277ced649485b404b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/04b5f3210460af29438f3d40d920b181.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/25f9f2288d58158f11b7beac3a20af70.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/907845746454c56ed68972431f01192c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/0884245f1f7f6814779b66af7522bffc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/bc78ab3dbb09c668c3ff135dd27d85e0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/88f61ba1de9dd9d992c481403e4cd341.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/646f6b0263850c973fb5e6fc242740d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/330ccd9f8ef4f98df14fa8556318a8df.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/79f5a96a4b719b658ec06008ed2a7ec0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/589d39428ea784a5b51cf47d08afc4e2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/70b8acb0a2f927e560440a1cc45168d2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/47b7ce6a3b72ab9ef91faff8654ea08d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/34e726c10fe73c7c2bf49f65fb353360.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/b3ec48cd0661f6b0478ee91949f04784.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/aa91205b0e610d7b704f69a454d3d849.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/0cbac46b7db630f700b071e285147269.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/1cfa09dbb7958fb6b2131a27fee8dddb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS171711/3917ba5307655f03922ce9f439f8630c.jpg</image>
 			</images>
-		<priceWithDiscount>4282990</priceWithDiscount><sale_price>4282990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>d57c6fcdc3ee63c9942260ef96f17afb</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3055,7 +3203,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>2c0bc94487d57a63a4fa9c3f00d92a24</unique_id>
+			<unique_id>bffe28f9c571ea74753f40970723aef1</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -3064,7 +3212,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<wheel>левый</wheel>
 			<color>ЧЕРНЫЙ</color>
 			<metallic>да</metallic>
-			<availability>в наличии</availability>
+			<availability>транзит</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
@@ -3075,7 +3223,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D2RS157038</vin>
+			<vin>LB37852DXRS181832</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -3109,6 +3257,80 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images />
 		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
+			<unique_id>5f574181ccce553023108a33bb84ef10</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>4732990</price>
+			<credit_discount>300000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>650000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS157293</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+В нaличии нoвый Geely MONJАRО, 2024 годa
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/d0d31ba79cd77013b22050f617f9940e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg</image>
+			</images>
+		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>43afe071d720eb16d49d5daafec15991</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3220,14 +3442,14 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<images />
 		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>5f574181ccce553023108a33bb84ef10</unique_id>
+			<unique_id>2c0bc94487d57a63a4fa9c3f00d92a24</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>ЧЕРНЫЙ</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -3240,7 +3462,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<optional_discount>0</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7RS157293</vin>
+			<vin>LB37852D2RS157038</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
 Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
 Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
@@ -3272,27 +3494,8 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/d0d31ba79cd77013b22050f617f9940e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg</image>
-			</images>
-		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
+			<images />
+		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>2501987202c6350a2231e061939ac372</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3348,287 +3551,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images />
 		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>4863ca5519132ab9051ec78e322ae03c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS171711</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-В нaличии нoвый Geely MONJАRО, 2024 годa
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/04b5f3210460af29438f3d40d920b181.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/25f9f2288d58158f11b7beac3a20af70.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/907845746454c56ed68972431f01192c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/0884245f1f7f6814779b66af7522bffc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/bc78ab3dbb09c668c3ff135dd27d85e0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/88f61ba1de9dd9d992c481403e4cd341.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/646f6b0263850c973fb5e6fc242740d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/330ccd9f8ef4f98df14fa8556318a8df.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/79f5a96a4b719b658ec06008ed2a7ec0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/589d39428ea784a5b51cf47d08afc4e2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/70b8acb0a2f927e560440a1cc45168d2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/47b7ce6a3b72ab9ef91faff8654ea08d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/34e726c10fe73c7c2bf49f65fb353360.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/b3ec48cd0661f6b0478ee91949f04784.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/aa91205b0e610d7b704f69a454d3d849.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/0cbac46b7db630f700b071e285147269.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/1cfa09dbb7958fb6b2131a27fee8dddb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS171711/3917ba5307655f03922ce9f439f8630c.jpg</image>
-			</images>
-		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>188890390e36857163cf6a3dd24e0e3d</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS155975</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-В нaличии нoвый Geely MONJАRО, 2024 годa
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/18bc39fccc56ea35e8393fee68071aca.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/03a7ba3ed84ddf07102c93abbd333a4c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/0931ca63c17bfcc6f23055ad76a09dfd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/221025af9a165a9709be57237181403b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/1e42d689c26c646fba1d9604cd4a95d5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/153b47110e88684e99d2592810df0d33.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/c8acec60d4f2b214c3e5e56af9ad8c17.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/4005c07153a63a1aea6627f6132b8bdf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/38b740ecb7163021b35a845d44bed82b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/4ddc1a73eec52f9218a9d77acd4f18d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/e259aeed0350f61eaec4ad4efca9205f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/7e013163a4ed0573183d97e6ff5d89d0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/9f182779ec3ccbd9119b8edcdcff3d20.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/ad0dcf52de67f3ec78a5a9fc6127a44a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/cdaf5543dda52d8daf70ff949f8e6e46.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/e6ed639a2ee6f348e0595212fc952f4d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/ab94dd39688b426a1effe1c2a0bd8f75.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS155975/c87df275dd658c014a750a722086efda.jpg</image>
-			</images>
-		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>bffe28f9c571ea74753f40970723aef1</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4732990</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852DXRS181832</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-В нaличии нoвый Geely MONJАRО, 2024 годa
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images />
-		<priceWithDiscount>4082990</priceWithDiscount><sale_price>4082990</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>1745c0dec8f240aff94694118ce6041f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango, I Рестайлинг</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3748990</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S62RY024499</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-
-Gееly Оkаvаngо I Рестайлинг, 2024
-
-Откройте для себя новый уровень комфорта и безопасности с Gееly Оkаvаngо I Рестайлинг 2024 года. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
-
-Дизайн и комфорт
-
-Элегантный синий цвет кузова, 19-дюймовые диски и панорамная крыша создают неповторимый образ автомобиля. Искусственная кожа обивки салона придаёт интерьеру роскошный вид.
-
-Технологии
-
-Светодиодные фары обеспечивают отличную видимость в тёмное время суток. Бортовой компьютер, Вluеtооth, СаrРlаy, USВ и беспроводная зарядка для смартфона делают поездки ещё более удобными.
-
-Безопасность
-
-Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), подушки безопасности водителя и пассажира, боковые подушки безопасности, оконные подушки безопасности (шторки), а также системы контроля слепых зон и помощи при старте в гору обеспечивают высокий уровень безопасности.
-
-Комфорт и удобство
-
-Двухзонный климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, сиденья с памятью положения и электрорегулировкой, круиз-контроль и дистанционный запуск двигателя делают каждую поездку максимально комфортной.
-
-Gееly Оkаvаngо I Рестайлинг — это идеальный выбор для тех, кто ценит комфорт, безопасность и современные технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/423e56f5929182a73bb702eb0e53a135.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/eb2118af56b0b4ee70686f45bedce680.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/8a03a6cd063862139f0570ad3d16dbe4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/eede4061ccf2a188de7ff31cc2621fbb.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/d61c92e9147851a1826118f88ad39433.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/0e84759ab8a20df6cddd61bc7d5eb872.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/1d772ddc43b5d501759e96c4f01e530e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/abd89e37ee35c1426911e152be1e1bc4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/29f4f9876ba1dff84912f96255a7f621.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/ab5ca68f9df3477948df5687247947f5.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/cc60a2b656c92ba3df42fe909c5e4986.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/c7a9d1b0bca09452ba8f6066cf457cec.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/cc4a353728c39f76b66f7776d5bf3fbc.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/2df2b9691dca73ff8ac0ea9da9fe18e4.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/bf44be98fa3fbcc3a50d256fe42458ac.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/c9fe55b0eceb7abaa82d57495049f7b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/f020d00f53b1d9b425e5ae28859346e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/a8a515b37d5b1b050b70e37754bc0138.jpeg</image>
-			</images>
-		<priceWithDiscount>3298990</priceWithDiscount><sale_price>3298990</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>abab2df1665253fc3cd2370ed1b67c4f</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3784,6 +3706,84 @@ Gееly Оkаvаngо I Рестайлинг — это идеальный выб
 				<image>https://photo.toyotasever.ru/L6TVX1S67RY037104/bf69ec830c5346b1fca2f199f40c642d.jpg</image>
 			</images>
 		<priceWithDiscount>3298990</priceWithDiscount><sale_price>3298990</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>1745c0dec8f240aff94694118ce6041f</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango, I Рестайлинг</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3748990</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S62RY024499</vin>
+			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+
+Gееly Оkаvаngо I Рестайлинг, 2024
+
+Откройте для себя новый уровень комфорта и безопасности с Gееly Оkаvаngо I Рестайлинг 2024 года. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Дизайн и комфорт
+
+Элегантный синий цвет кузова, 19-дюймовые диски и панорамная крыша создают неповторимый образ автомобиля. Искусственная кожа обивки салона придаёт интерьеру роскошный вид.
+
+Технологии
+
+Светодиодные фары обеспечивают отличную видимость в тёмное время суток. Бортовой компьютер, Вluеtооth, СаrРlаy, USВ и беспроводная зарядка для смартфона делают поездки ещё более удобными.
+
+Безопасность
+
+Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), подушки безопасности водителя и пассажира, боковые подушки безопасности, оконные подушки безопасности (шторки), а также системы контроля слепых зон и помощи при старте в гору обеспечивают высокий уровень безопасности.
+
+Комфорт и удобство
+
+Двухзонный климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, сиденья с памятью положения и электрорегулировкой, круиз-контроль и дистанционный запуск двигателя делают каждую поездку максимально комфортной.
+
+Gееly Оkаvаngо I Рестайлинг — это идеальный выбор для тех, кто ценит комфорт, безопасность и современные технологии.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/423e56f5929182a73bb702eb0e53a135.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/eb2118af56b0b4ee70686f45bedce680.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/8a03a6cd063862139f0570ad3d16dbe4.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/eede4061ccf2a188de7ff31cc2621fbb.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/d61c92e9147851a1826118f88ad39433.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/0e84759ab8a20df6cddd61bc7d5eb872.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/1d772ddc43b5d501759e96c4f01e530e.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/abd89e37ee35c1426911e152be1e1bc4.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/29f4f9876ba1dff84912f96255a7f621.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/ab5ca68f9df3477948df5687247947f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/cc60a2b656c92ba3df42fe909c5e4986.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/c7a9d1b0bca09452ba8f6066cf457cec.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/cc4a353728c39f76b66f7776d5bf3fbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/2df2b9691dca73ff8ac0ea9da9fe18e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/bf44be98fa3fbcc3a50d256fe42458ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/c9fe55b0eceb7abaa82d57495049f7b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/f020d00f53b1d9b425e5ae28859346e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY024499/a8a515b37d5b1b050b70e37754bc0138.jpeg</image>
+			</images>
+		<priceWithDiscount>3298990</priceWithDiscount><sale_price>3298990</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>2b5f4bb50d9c74cf95dec683667233a0</unique_id>
 			<mark_id>Geely</mark_id>
