@@ -7,6 +7,11 @@ model_mapping = {
     "001": {
         "folder": "001",
         "color": {
+            "Black": "black.webp",
+            "Gray": "gray.webp",
+            "White": "white.webp",
+            "Черный": "black.webp",
+            "Серый": "gray.webp",
             "Белый": "white.webp",
         }
     },
@@ -140,6 +145,7 @@ model_mapping = {
             "Черный": "black.webp",
             "Gray-blue": "gray-blue.webp",
             "Серо-голубой": "gray-blue.webp",
+            "Голубой": "gray-blue.webp",
             "Gray-purple": "gray-purple.webp",
             "Серо-фиолетовый": "gray-purple.webp",
             "Gray": "gray.webp",
