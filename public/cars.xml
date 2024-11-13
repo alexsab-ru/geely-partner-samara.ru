@@ -2610,80 +2610,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<priceWithDiscount>3840190</priceWithDiscount><sale_price>3840190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-серебристый-2024/</url></car>
 		<car>
-			<unique_id>fe2f4a1d82925763c4f2591e49fefdef</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS126647</vin>
-			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
-Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
-Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
-
-В нaличии нoвый Geely MONJАRО, 2024 годa
-
-✅ ГAРAHTИЯ 5 ЛET
-
-✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
-
-✅ РАCCРОЧКА
-
-✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6ddead760e1a31405a8e0684e1c901c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d49c1945ad0a1dc449c9e539505bd57.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/16bfda7619f2587fe48e5402ede735fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c916ceb0e9e818aab4a7404582c3052b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/26c7db0db8d61123d5f061c2de3e80c4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/293f73b5180d4a1671e3fb7a6d317139.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6c6d3c9a76d1a541eb9f28af3f5a1fa0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c4bedbb9efb8c1dbd1885fffa52f5df1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/35c539efd6823a4bab452b21ca35ed25.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/87ba90ec7db67077302e6a94e54864ea.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/e2fcf54c19193ef48a21eecece99c918.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/8f8af6a7de23cfb5e025e0d3992a228e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/efa4da25087f1eadb6192556987700ae.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/9258ca4a770db6d0326475ac6a3ce909.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/6929d54876f36d632183c127ad7eaa34.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5fe03ea20e7048f8422c239e59f21e72.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/5d3bed4fac1002ac57cc13623ab043ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS126647/c5b985f5a25baea22b6ef1c36a1a91a6.jpg</image>
-			</images>
-		<priceWithDiscount>4340190</priceWithDiscount><sale_price>4340190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
 			<unique_id>2d092ad747186c098cc81bdbde859345</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -2695,7 +2621,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>4990190</price>
 			<credit_discount>300000</credit_discount>
@@ -3065,7 +2991,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>4790190</price>
 			<credit_discount>300000</credit_discount>
@@ -4117,7 +4043,7 @@ Geely Preface — это элегантный седан бизнес-класс
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>10</run>
 			<year>2024</year>
 			<price>3396190</price>
 			<credit_discount>200000</credit_discount>
