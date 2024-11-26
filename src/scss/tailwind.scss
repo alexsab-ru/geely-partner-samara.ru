@@ -7,14 +7,6 @@
 		font-size: calc((1vw + 1vh) * 2.2);
 	}
 
-	.banner-title{
-		@apply text-[28px] mb-[28px] md:text-[40px] md:mb-[40px] lg:text-[50px] lg:mb-[50px] leading-[1.3] uppercase font-bold;
-	}
-
-	.banner-description{
-		@apply text-[16px] mb-[35px] md:text-[22px] md:mb-[60px] lg:text-[27.5px] lg:mb-[75px] leading-[1.3];
-	}
-
 	.seo-content {
 		@apply overflow-hidden h-[230px] relative;
 	}
