@@ -7309,11 +7309,11 @@ Mы cтpемимся выcтрaивать долгоcpочные пaртнepск
 			<run>3</run>
 			<year>2024</year>
 			<price>4203190</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>400000</max_discount>
+			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD6RB003758</vin>
 			<description>Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
@@ -7344,7 +7344,7 @@ Mы cтpемимся выcтрaивать долгоcpочные пaртнepск
 • движением ноги под центральной частью заднего бампера (функция «hands-free»).
 Благодаря функции «hands-free», Вы можете открыть и закрыть багажную дверь без помощи рук. Это удобно, когда у Вас заняты руки или Вы не хотите их пачкать в плохую погоду.</description>
 			<images />
-		<priceWithDiscount>3803190</priceWithDiscount><sale_price>3803190</sale_price><url>https://geely-partner-samara.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<priceWithDiscount>3603190</priceWithDiscount><sale_price>3603190</sale_price><url>https://geely-partner-samara.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>7a2cc6208eed2513201a54577c1c7b2a</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
