@@ -5028,7 +5028,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>5f574181ccce553023108a33bb84ef10</Id>
+		<Id>2501987202c6350a2231e061939ac372</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -5072,29 +5072,21 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</Description>
 		<Price>4852190</Price>
 		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>621355</CreditDiscount>
+		<CreditDiscount>300000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>971355</MaxDiscount>
+		<MaxDiscount>650000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/aabdbf48870e40dcd9a1fb832b04c3d5.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f16991a8ed5aca74f248a949ed43a567.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3829ce98f0cf57b8549b903ef2f84eaa.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3c564add2727c3a9cdf1c1954ca49dba.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/7d4f3393dde8a3aab5b475ab9f56b53a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c41cd84e59c199107b364e4088b6cab7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/e4916207b639d79f04fbd8d63b8c1e44.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f06c87079a96659181c9f938d60a6da1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/ae9abe906808b37cf87dc907c3197d3b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c943d933cc09f143270469ca8a7f0f29.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/bc8fb1cfbb5cceda17943bd457ec28f2.jpeg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
@@ -5108,7 +5100,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D7RS157293</VIN>
+		<VIN>LB37852D4RS158157</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -5177,7 +5169,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>9f86d1421af85661f1c072ff47f3b6ea</Id>
+		<Id>2c0bc94487d57a63a4fa9c3f00d92a24</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -5238,7 +5230,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D5RS157034</VIN>
+		<VIN>LB37852D2RS157038</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -6259,7 +6251,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>2c0bc94487d57a63a4fa9c3f00d92a24</Id>
+		<Id>9f86d1421af85661f1c072ff47f3b6ea</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -6320,7 +6312,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D2RS157038</VIN>
+		<VIN>LB37852D5RS157034</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -6492,7 +6484,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>2501987202c6350a2231e061939ac372</Id>
+		<Id>5f574181ccce553023108a33bb84ef10</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -6536,21 +6528,29 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</Description>
 		<Price>4852190</Price>
 		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>300000</CreditDiscount>
+		<CreditDiscount>621355</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>650000</MaxDiscount>
+		<MaxDiscount>971355</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f16991a8ed5aca74f248a949ed43a567.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3829ce98f0cf57b8549b903ef2f84eaa.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3c564add2727c3a9cdf1c1954ca49dba.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/7d4f3393dde8a3aab5b475ab9f56b53a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c41cd84e59c199107b364e4088b6cab7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/e4916207b639d79f04fbd8d63b8c1e44.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f06c87079a96659181c9f938d60a6da1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/ae9abe906808b37cf87dc907c3197d3b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c943d933cc09f143270469ca8a7f0f29.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/bc8fb1cfbb5cceda17943bd457ec28f2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/aabdbf48870e40dcd9a1fb832b04c3d5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
@@ -6564,7 +6564,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D4RS158157</VIN>
+		<VIN>LB37852D7RS157293</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -10504,7 +10504,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>5f574181ccce553023108a33bb84ef11</Id>
+		<Id>2501987202c6350a2231e061939ac373</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -10548,29 +10548,21 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</Description>
 		<Price>4852190</Price>
 		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>621355</CreditDiscount>
+		<CreditDiscount>300000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>971355</MaxDiscount>
+		<MaxDiscount>650000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/aabdbf48870e40dcd9a1fb832b04c3d5.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f16991a8ed5aca74f248a949ed43a567.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3829ce98f0cf57b8549b903ef2f84eaa.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3c564add2727c3a9cdf1c1954ca49dba.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/7d4f3393dde8a3aab5b475ab9f56b53a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c41cd84e59c199107b364e4088b6cab7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/e4916207b639d79f04fbd8d63b8c1e44.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f06c87079a96659181c9f938d60a6da1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/ae9abe906808b37cf87dc907c3197d3b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c943d933cc09f143270469ca8a7f0f29.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/bc8fb1cfbb5cceda17943bd457ec28f2.jpeg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
@@ -10584,11 +10576,11 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D7RS157294</VIN>
+		<VIN>LB37852D4RS158158</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>9f86d1421af85661f1c072ff47f3b6eb</Id>
+		<Id>2c0bc94487d57a63a4fa9c3f00d92a25</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -10649,7 +10641,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D5RS157035</VIN>
+		<VIN>LB37852D2RS157039</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -10718,7 +10710,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>2c0bc94487d57a63a4fa9c3f00d92a25</Id>
+		<Id>9f86d1421af85661f1c072ff47f3b6eb</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -10779,7 +10771,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D2RS157039</VIN>
+		<VIN>LB37852D5RS157035</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -10951,7 +10943,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>2501987202c6350a2231e061939ac373</Id>
+		<Id>5f574181ccce553023108a33bb84ef11</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -10995,21 +10987,29 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</Description>
 		<Price>4852190</Price>
 		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>300000</CreditDiscount>
+		<CreditDiscount>621355</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>650000</MaxDiscount>
+		<MaxDiscount>971355</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f16991a8ed5aca74f248a949ed43a567.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3829ce98f0cf57b8549b903ef2f84eaa.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/3c564add2727c3a9cdf1c1954ca49dba.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/7d4f3393dde8a3aab5b475ab9f56b53a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c41cd84e59c199107b364e4088b6cab7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/e4916207b639d79f04fbd8d63b8c1e44.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/f06c87079a96659181c9f938d60a6da1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/ae9abe906808b37cf87dc907c3197d3b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/c943d933cc09f143270469ca8a7f0f29.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D4RS158157/bc8fb1cfbb5cceda17943bd457ec28f2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/aabdbf48870e40dcd9a1fb832b04c3d5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bfb8e75fd1ee75ffece33892afad19c0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/50043ec39e6f7735e8c2fbcbba4b37cc.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/201e22af3fda3cbb96aa67a7b352f4f1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f01c7d15897d16d0c893a1e745ac360e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1b37fdff7d8cb68d25c2fb380db955b3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/bd38d862211587b5419af1f863136295.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cbb3bf4b5e52ae49a004f7b4898053d9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/f510fba57e1d9533c98e5c00aa309d64.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1055dcee180354ed31d76f1b0d89cc16.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/cac7a8d296ba45e255e9a3ff4a4ff54e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/7036a703442225b33d035d6785f95b7d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/63b69ac67831f0848942c6200e85220a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/48f5872bd8a13831f30b4ecad35800f2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/2955e94e42054698e2edab4eb4d7c09b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/1fb3bb5cfddd26aeac3c8e920e6b3e23.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/23bb30a4877df5fcd3d64853baff544d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS157293/20ec2cb3f6d706be17898bdfb4036003.jpeg" />
 		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
@@ -11023,7 +11023,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB37852D4RS158158</VIN>
+		<VIN>LB37852D7RS157294</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
