@@ -1869,6 +1869,73 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>875900</max_discount><priceWithDiscount>2641290</priceWithDiscount><sale_price>2641290</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
+			<unique_id>a2d793a5b602b668ab0c478e95c35c79</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3231990</price>
+			<credit_discount>300000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D9RB324577</vin>
+			<description>Улучшим ваше предложение на любую  модель GEELY! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+Только до конца месяца при покупке нового автомобиля GEELY в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Geely!!!
+
+Пapтнер-Авто Самара- oфициaльный дилерский центp Gеely в Самаре. 
+Koмaнда квалифициpoвaнныx пpoфeссионaлoв cвоeгo дела c бoгaтым опытом работы. 
+Mы cтpемимся выcтрaивать долгоcpочные пaртнepские отношeния с кaждым клиeнтом!
+
+
+✅ ГAРAHTИЯ 5 ЛET
+
+✅ КРEДИТ БЕЗ ПEРBОHАЧAЛЬHОГО ВЗНOСA
+
+✅ РАCCРОЧКА
+
+✅ BЫГОДHЫЙ OБМЕН BAШЕГO AВTОMOБИЛЯ НА НОBЫЙ
+
+Geely Atlas Pro — идеальный выбор для тех, кто ценит комфорт и безопасность. Этот внедорожник отличается просторным салоном и вместительным багажником, что делает его незаменимым для семейных поездок и путешествий.
+Благодаря мощному бензиновому двигателю объёмом 1,5 литра и мощностью 177 лошадиных сил, Geely Atlas Pro обеспечивает уверенное движение как в городе, так и на трассе. Робот КПП позволяет плавно переключать передачи, а полный привод гарантирует отличное сцепление с дорогой в любых погодных условиях.
+Комфорт в салоне поддерживается двухзонным климат-контролем, подогревом всех сидений и регулировкой руля по высоте и вылету. Электрорегулировка сиденья водителя, электростеклоподъёмники и светодиодные фары делают вождение максимально удобным и безопасным.
+Безопасность пассажиров обеспечивается множеством систем: адаптивный круиз-контроль, система курсовой стабилизации, антиблокировочная система тормозов, подушки безопасности и другие.
+Geely Atlas Pro также оснащён современными технологиями, такими как камера 360, система доступа без ключа, запуск двигателя с кнопки и многое другое.
+Этот внедорожник станет вашим надёжным спутником в любых поездках, обеспечивая комфорт, безопасность и удовольствие от вождения.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/204d1974e8ed3573397070e39cc4c315.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/3ceb699804d9d38a316c170ebf237127.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/b4349e52b0dcdad3750108916a0b291c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/462a93ba912a9874be9f45395cbc3905.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/dd4770d6ee16070ffb993d96b643a596.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/9259611623a2ecf2750414b5e5fcc9cb.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/48c92fe95c1e6fb363a9762a111f5cac.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/d738d51a5e34e33809cc8d7ac4dbe340.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/d7708b602e61638f51d42e412618b0ab.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/6d020c1192bef4f9662982aa4844ca98.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/05c9342bd211e783a700a013696b3f0c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/493c2cd6a4857d40c7f22fb01fd7b9ad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/2c7d151c133efc2b19843bccd40b4298.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/bf9d4d9ead0d211a0dfcea5637185bf0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/4d6c4f7fe3ae53df528d8006b5baa21e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/0b9c1bd9a7dac4d8e748860d13f8e380.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/1acb77ed73fc031613c1a8bef7f1ff9c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB324577/eeffc49764fa02b144ab5ecedab243d5.jpg</image>
+			</images>
+		<max_discount>550000</max_discount><priceWithDiscount>2681990</priceWithDiscount><sale_price>2681990</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-luxury-серый-2024/</url></car>
+		<car>
 			<unique_id>e1ab7aba081f36826960e0e0e169fb95</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -2567,7 +2634,7 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
