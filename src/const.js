@@ -37,6 +37,7 @@ export const LINKS_MENU = [
 		name: 'Модели',
 		children: models.map(model => ( { url: `models/${model.id}/`, name: `${model?.mark_id} ${model.name.toUpperCase()}` } ) )
 	},
+	{url: 'for-owners/', name: 'Владельцам'},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
 	// {url: 'news/', name: 'Новости'},
@@ -48,7 +49,7 @@ export const LINKS_MENU = [
 // Коллекции
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
-	{name: 'news', title: 'Новости'},
+	{name: 'for-owners', title: 'Владельцам'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
