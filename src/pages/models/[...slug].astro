@@ -4,6 +4,7 @@ import Model from '@/components/Model/Model.astro';
 import ModelComplectations from '@/components/Model/Complectations.astro';
 import CarItem from "@/components/Cars/Item.astro";
 import UniversalSection from '@/components/Model/sections/universal.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import SeoText from '@/components/Seo/Index.astro';
 const { slug } = Astro.params;
 const seoname = 'models-'+slug;
@@ -37,10 +38,15 @@ const cars = rawCars && rawCars.length ? rawCars.filter(
     || (model?.feed_names ? model?.feed_names.includes(car.data.folder_id) : false) )
   )
 ) : [];
+import salonsData from '@/data/salons.json';
+import type { ISalon } from '@/types/ISalon';
+const salons = salonsData.filter((salon: ISalon) => !salon?.type || salon?.type.includes('index'));
+const salonsPhone = salons.map((salon: any) => salon.phone).filter(phone => phone).join(', ');
+
 ---
 <Layout 
   title={`${model.mark_id} ${model.name} – фото, цены, комплектации и характеристики ${model.mark_id} ${model.name} в ${LEGAL_CITY_WHERE}`} 
-  description={model.slogan}
+  description={`${model.mark_id} ${model.name} купить в ${LEGAL_CITY_WHERE}. Кредит, авторассрочка, скидки на все автомобили от розничной цены. Гарантия. Звонить по тел.: ${salonsPhone}`}
   image={model.image ?? model.thumb}
 >
   <h1 class="sr-only">Автомобиль {BRAND} {model.name} в {LEGAL_CITY_WHERE}</h1>
@@ -52,6 +58,11 @@ const cars = rawCars && rawCars.length ? rawCars.filter(
     (model?.complectations !== undefined && model?.complectations.length) && <ModelComplectations title={`Подобрать комплектацию ${model?.mark_id} ${model.name}`} model={model} brand={BRAND} />
   }
   <SeoText mdx={seoname} />
+  <section>
+    <div class="container">
+      <FeedbackForm title="Записаться на тест-драйв" image=`/img/models/${model.id}/sections/1.webp` />
+    </div>
+  </section>
   {cars.length > 0 && (
     <section class="odd:bg-gray-100">
       <div class="container">

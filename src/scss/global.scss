@@ -186,3 +186,13 @@ section:not(.model-section) {
 		@apply list-disc pl-4;
 	}
 }
+
+.lazy{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	img{
+		max-height: 70px;
+		width: auto;
+	}
+}
