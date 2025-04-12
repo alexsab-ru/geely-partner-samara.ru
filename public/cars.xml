@@ -1,84 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>f843c5ed2f012dfed134e0f77f980a83</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>3717190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>380000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S68RB146375</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
-Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
-Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
-Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
-10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
-Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
-
-В экстерьере:
-
-• Двухцветные колёсные диски 20” особого дизайна
-• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
-• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
-В интерьере:
-• Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/ebb0259b143b5c2e0627eaea22af8580.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/532ae17186b97523f6b99c91a4876e72.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/c0c27eba15f5bc511b6b5b3cbe00d8ac.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/1cc08faec88c64c74da177597d63c53a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/6890d48a87869acb5e15d58c9b4fdba6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/81038d9a6b2d210d8416f917090ee045.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/5f5b2fd4f7719804c4be55216661c52d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/093b086046942a16a5022175e767c107.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/f70865cbb5a8313ff6120d3334da5577.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/3e2e16286365e4bc1b5dd6e4e8cefed3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/efb939f6d6abfea31c0e2fb63656290f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/2ae66e47cddb94b414907d9d894df3fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/c5cc0c65bce5979f9224baf3a3e439db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/fc76959e4b4a50fdf63d3b939b61fb41.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/fa02975aac871a2ad527a05d47cc483e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/e45d78651a716524e40833474dbc5728.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/917946d691ff2158109dd6469fd42265.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/8d4567f8999e4c228ae6fd3333ac6b76.jpg</image>
-			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>2787190</priceWithDiscount><sale_price>2787190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>0f613b6354b7a515fa977fb67f1b647e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -392,10 +314,10 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2787190</priceWithDiscount><sale_price>2787190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>b731e076d93786560b0a1cdc2315442e</unique_id>
+			<unique_id>f843c5ed2f012dfed134e0f77f980a83</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
@@ -405,13 +327,13 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
-			<price>3917190</price>
+			<price>3717190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>150000</insurance_discount>
 			<tradein_discount>380000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S18RB146672</vin>
+			<vin>LB3FX1S68RB146375</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -447,28 +369,28 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
 • Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
 В интерьере:
-• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
+• Селектор автоматической коробки передач с декоративной прозрачной накладкой</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/9919d3715ddd9b3f5b037b7a65120c8a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/16f828c2f0af848ecbb191e6c9b6809b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a10447eaf8d5b75f5092d4a3d80441e2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a5e87440e302b2628b338933b0e39604.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/f94e421a093409a35fa39bab7fc19c9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/5b57b62aa1cc9d5a5a266d9215300e6f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/d2baed8f9436d9e44bc558808155cc0f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/703231d7c786dd66ad64f4536dee2caa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/894b8f8e053a20c297a0f05e781a5900.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/5dbe7001746aa3e45848ebf96aa70eb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/2ada7f29991cbf09028ccc1d02a48ab4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/178a160a90b91d83efd30b344aac085e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/3f74dff0c6f6c8e5626f444cd09c15e0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/140b6788cce86c4ed120d9abfa83d647.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a7ebadab2d62c414abc7d7641cdf88eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/4a5b920b88bf35e243d1c968bc10afcd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/db718efbf44f90971399721c3ba5e992.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/951f17d1fd6255c0bcc921547272b82f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/ebb0259b143b5c2e0627eaea22af8580.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/532ae17186b97523f6b99c91a4876e72.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/c0c27eba15f5bc511b6b5b3cbe00d8ac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/1cc08faec88c64c74da177597d63c53a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/6890d48a87869acb5e15d58c9b4fdba6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/81038d9a6b2d210d8416f917090ee045.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/5f5b2fd4f7719804c4be55216661c52d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/093b086046942a16a5022175e767c107.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/f70865cbb5a8313ff6120d3334da5577.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/3e2e16286365e4bc1b5dd6e4e8cefed3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/efb939f6d6abfea31c0e2fb63656290f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/2ae66e47cddb94b414907d9d894df3fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/c5cc0c65bce5979f9224baf3a3e439db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/fc76959e4b4a50fdf63d3b939b61fb41.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/fa02975aac871a2ad527a05d47cc483e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/e45d78651a716524e40833474dbc5728.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/917946d691ff2158109dd6469fd42265.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB146375/8d4567f8999e4c228ae6fd3333ac6b76.jpg</image>
 			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<max_discount>930000</max_discount><priceWithDiscount>2787190</priceWithDiscount><sale_price>2787190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>a25f843a7b57378a9f29554b02a629fa</unique_id>
 			<mark_id>Geely</mark_id>
@@ -692,76 +614,6 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
-			<unique_id>8f6e01a73d80b7cab62fc3eda8bae881</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>380000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S1XRB163876</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
-Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
-Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
-Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
-10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
-Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
-
-В экстерьере:
-
-• Двухцветные колёсные диски 20” особого дизайна
-• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
-• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
-В интерьере:
-• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/cde415f75dd30a160aedc2eef676f0c6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/d3c4fe107a6757c3a757da31929eb1b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/c106c8bb1f84df5a43707de195ba6a81.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/dafdfd5467fb1820f2c35f162025b4ba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/92069f892bdb8ac99b387f7147cd6d2e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/3589df4b827305a23cac77d12cc0734d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/cda39e3fc2f732523eb1003c03852c35.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/57060c3f6d082ed7dcbe6c1ee5833442.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/2aa35b654c1ac9013e5002e2aff0d60c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/2be44a51ca8d821e3880f977665ee68b.jpg</image>
-			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>608ef0ffc217dab5cbc8c02d6643cace</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -837,6 +689,76 @@ Geely Atlas – ультрасовременный семейный кроссо
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB148879/d2cf132c2b780fa26bc99c564504882a.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB148879/6161326ded8236308217c251097dcd39.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB148879/8a6a1c4b59300bbafeef3baf4581326d.jpg</image>
+			</images>
+		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>8f6e01a73d80b7cab62fc3eda8bae881</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>380000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S1XRB163876</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
+Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
+Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
+Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
+10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
+Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
+
+В экстерьере:
+
+• Двухцветные колёсные диски 20” особого дизайна
+• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
+• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
+В интерьере:
+• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/cde415f75dd30a160aedc2eef676f0c6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/d3c4fe107a6757c3a757da31929eb1b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/c106c8bb1f84df5a43707de195ba6a81.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/dafdfd5467fb1820f2c35f162025b4ba.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/92069f892bdb8ac99b387f7147cd6d2e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/3589df4b827305a23cac77d12cc0734d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/cda39e3fc2f732523eb1003c03852c35.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/57060c3f6d082ed7dcbe6c1ee5833442.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/2aa35b654c1ac9013e5002e2aff0d60c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB163876/2be44a51ca8d821e3880f977665ee68b.jpg</image>
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
@@ -995,6 +917,84 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-зеленый-2024/</url></car>
 		<car>
+			<unique_id>b731e076d93786560b0a1cdc2315442e</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>380000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S18RB146672</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
+Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
+Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
+Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
+10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
+Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
+
+В экстерьере:
+
+• Двухцветные колёсные диски 20” особого дизайна
+• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
+• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
+В интерьере:
+• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/9919d3715ddd9b3f5b037b7a65120c8a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/16f828c2f0af848ecbb191e6c9b6809b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a10447eaf8d5b75f5092d4a3d80441e2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a5e87440e302b2628b338933b0e39604.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/f94e421a093409a35fa39bab7fc19c9b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/5b57b62aa1cc9d5a5a266d9215300e6f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/d2baed8f9436d9e44bc558808155cc0f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/703231d7c786dd66ad64f4536dee2caa.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/894b8f8e053a20c297a0f05e781a5900.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/5dbe7001746aa3e45848ebf96aa70eb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/2ada7f29991cbf09028ccc1d02a48ab4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/178a160a90b91d83efd30b344aac085e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/3f74dff0c6f6c8e5626f444cd09c15e0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/140b6788cce86c4ed120d9abfa83d647.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/a7ebadab2d62c414abc7d7641cdf88eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/4a5b920b88bf35e243d1c968bc10afcd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/db718efbf44f90971399721c3ba5e992.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB146672/951f17d1fd6255c0bcc921547272b82f.jpg</image>
+			</images>
+		<max_discount>930000</max_discount><priceWithDiscount>2987190</priceWithDiscount><sale_price>2987190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>d017342f6b9672130c8bbdd8f29ac968</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -1072,14 +1072,14 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2887190</priceWithDiscount><sale_price>2887190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>0faf76e7d7e609628c9041340342b7bd</unique_id>
+			<unique_id>ae9be7f869bfb055102b700e193a315c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship Sport</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
+			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>транзит</availability>
 			<custom>растаможен</custom>
@@ -1091,7 +1091,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<tradein_discount>380000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S18RB131850</vin>
+			<vin>LB3FX1S10RB147167</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -1129,16 +1129,143 @@ Geely Atlas – ультрасовременный семейный кроссо
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/0356b5e176fd960fd2ba7cb3515781eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/5c9c35a316678ff00a5b8bc8801f16d1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/bc524b5fec68b4df6267c54ced36d280.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/72c9d6c23029cf2d714468e5e0687936.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/aee0a007494acc297ab8aefebb9b12c6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/037abb28a89a531a33d26cc372f69559.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/d19d783a57ef2d4124edd2d9d044f14e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/298280aea06858f5f20277faca1f1ac9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/60cda0b9832bb1f91ad8e1b75a47a3fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/baa7831767d1aa0303583b552f55d9fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/eb440c3135eef81a31b05abf9d34f1d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/852cc6b758c9dc50dc701d8810735726.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/718a2d315a40a6f5f674064cde69ed56.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/7f0ccf3dcbc9627fc48df0261888df3e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/19c311902e79b26f789bb47cecb654f7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/b49a87789710d722435ea2128e99a142.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/418e54e5993f1373e7b0f7ae60cdc82e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/955ebc4655c0b93d64b68c8abcab5123.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/40c5d56c7dfaf601220b564b8a4e056c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/cb96f657cef32bc28c224bf133a767da.jpg</image>
+			</images>
+		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<car>
+			<unique_id>b2c0d23f6055a8bc65a5c76bac9a9536</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>4017190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>380000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S15RB129294</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗️ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+Почему ВЫГОДНО покупать сейчас?
+✅ Рассрочка без переплат — фиксируем цену, никаких сюрпризов!
+✅ Кредит без первого взноса — не ждите, начните ездить сегодня!
+✅ Выгодный трейд-ин — обменяем ваш авто по максимальной стоимости!
+ Подарки, которые сэкономят вам десятки тысяч рублей:
+  Сигнализация — для вашей безопасности.
+ Коврики в салон — для комфорта каждый день.
+ Защита картера и сетка бампера — никаких лишних трат на ремонт.
+ Антикоррозийная обработка — защита кузова на долгие годы!
+
+⚡️ ТОЛЬКО ДО КОНЦА МЕСЯЦА!
+Потом цены могут взлететь — успейте купить выгодно и с подарками!
+
+Почему именно GEELY?
+ GEELY — один из ведущих автопроизводителей мира, признанный за качество, инновации и доступные технологии.
+ Инновационные двигатели, современные системы безопасности и стильный дизайн — каждая модель создается для комфорта и надёжности.
+ Надёжная сборка и высокая адаптация к российским дорогам делают GEELY идеальным выбором для наших условий.
+ Лучшее соотношение цены и качества — вы получаете автомобиль, который стоит каждого вложенного рубля.
+ Партнер-Авто Самара — официальный дилер GEELY. Мы гарантируем надёжность, прозрачные условия и заботу о каждом клиенте.
+ Звоните прямо сейчас! Успейте застолбить лучшее предложение, пока оно доступно.
+ Время — ваш главный актив! Инвестируйте в уверенность и комфорт на дороге уже сегодня!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/5e645cf85b6850fa9d719a61b99d1934.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/4d481f6984ba31be83b5280ba8b4f41a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/cee562f4f31ab8b8582b46ca1a9d5191.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/4c03c9f6b1553d1a05489385d5c55591.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/e9b79bb65b4d3b863302d5a66b45d8e7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/f2dfe3092d32acc9311c89d06b5c2677.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/583c61032df928d6e411ffdfaa0444a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/5abcc951615a3ebba84a827edaa70f7f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/f0b074203b46bb7bcfc84b73b5db3827.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/552c8f8729216b41d0c80d3a19d9dfd5.jpg</image>
+			</images>
+		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серебристый-2024/</url></car>
+		<car>
+			<unique_id>4b37041b0073e8dd68c876f4b972b8f6</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>4017190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>380000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S17RB146498</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
+Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
+Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
+Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
+10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
+Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
+
+В экстерьере:
+
+• Двухцветные колёсные диски 20” особого дизайна
+• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
+• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
+В интерьере:
+• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/90855957da7447e098b98f12bce788a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/28282cf04bea917e299efc459f0aceab.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/e6888ec8e395ec6ac12b4f68570674b7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/0bad853990899418a6e83c8eec367174.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/b75ab6a8b346d470eddea64c95890d5d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/1dc04e8ae3ead955ce24fb9946e8aef2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/cccbbbdc5ebc91858b9a7171db4a73c4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/e8a855ba5f3598974dcdc86a120fd398.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/897ec6e176e98df61f106235f94dccde.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/0cabbfb01210c08fbf96ffd94a763655.jpg</image>
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-черный-2024/</url></car>
 		<car>
@@ -1290,64 +1417,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-черный-2024/</url></car>
 		<car>
-			<unique_id>b2c0d23f6055a8bc65a5c76bac9a9536</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4017190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>380000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S15RB129294</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗️ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
-Почему ВЫГОДНО покупать сейчас?
-✅ Рассрочка без переплат — фиксируем цену, никаких сюрпризов!
-✅ Кредит без первого взноса — не ждите, начните ездить сегодня!
-✅ Выгодный трейд-ин — обменяем ваш авто по максимальной стоимости!
- Подарки, которые сэкономят вам десятки тысяч рублей:
-  Сигнализация — для вашей безопасности.
- Коврики в салон — для комфорта каждый день.
- Защита картера и сетка бампера — никаких лишних трат на ремонт.
- Антикоррозийная обработка — защита кузова на долгие годы!
-
-⚡️ ТОЛЬКО ДО КОНЦА МЕСЯЦА!
-Потом цены могут взлететь — успейте купить выгодно и с подарками!
-
-Почему именно GEELY?
- GEELY — один из ведущих автопроизводителей мира, признанный за качество, инновации и доступные технологии.
- Инновационные двигатели, современные системы безопасности и стильный дизайн — каждая модель создается для комфорта и надёжности.
- Надёжная сборка и высокая адаптация к российским дорогам делают GEELY идеальным выбором для наших условий.
- Лучшее соотношение цены и качества — вы получаете автомобиль, который стоит каждого вложенного рубля.
- Партнер-Авто Самара — официальный дилер GEELY. Мы гарантируем надёжность, прозрачные условия и заботу о каждом клиенте.
- Звоните прямо сейчас! Успейте застолбить лучшее предложение, пока оно доступно.
- Время — ваш главный актив! Инвестируйте в уверенность и комфорт на дороге уже сегодня!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/5e645cf85b6850fa9d719a61b99d1934.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/4d481f6984ba31be83b5280ba8b4f41a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/cee562f4f31ab8b8582b46ca1a9d5191.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/4c03c9f6b1553d1a05489385d5c55591.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/e9b79bb65b4d3b863302d5a66b45d8e7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/f2dfe3092d32acc9311c89d06b5c2677.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/583c61032df928d6e411ffdfaa0444a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/5abcc951615a3ebba84a827edaa70f7f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/f0b074203b46bb7bcfc84b73b5db3827.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S15RB129294/552c8f8729216b41d0c80d3a19d9dfd5.jpg</image>
-			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серебристый-2024/</url></car>
-		<car>
-			<unique_id>4b37041b0073e8dd68c876f4b972b8f6</unique_id>
+			<unique_id>0faf76e7d7e609628c9041340342b7bd</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -1366,7 +1436,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<tradein_discount>380000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S17RB146498</vin>
+			<vin>LB3FX1S18RB131850</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -1404,27 +1474,27 @@ Geely Atlas – ультрасовременный семейный кроссо
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/90855957da7447e098b98f12bce788a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/28282cf04bea917e299efc459f0aceab.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/e6888ec8e395ec6ac12b4f68570674b7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/0bad853990899418a6e83c8eec367174.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/b75ab6a8b346d470eddea64c95890d5d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/1dc04e8ae3ead955ce24fb9946e8aef2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/cccbbbdc5ebc91858b9a7171db4a73c4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/e8a855ba5f3598974dcdc86a120fd398.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/897ec6e176e98df61f106235f94dccde.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB146498/0cabbfb01210c08fbf96ffd94a763655.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/0356b5e176fd960fd2ba7cb3515781eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/5c9c35a316678ff00a5b8bc8801f16d1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/bc524b5fec68b4df6267c54ced36d280.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/72c9d6c23029cf2d714468e5e0687936.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/aee0a007494acc297ab8aefebb9b12c6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/037abb28a89a531a33d26cc372f69559.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/d19d783a57ef2d4124edd2d9d044f14e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/298280aea06858f5f20277faca1f1ac9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/60cda0b9832bb1f91ad8e1b75a47a3fa.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S18RB131850/baa7831767d1aa0303583b552f55d9fd.jpg</image>
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-черный-2024/</url></car>
 		<car>
-			<unique_id>f4eaff0c82a43284e156ea254ddc3dd4</unique_id>
+			<unique_id>5c02ce0a888d7b47d7de3428ed4a8ce6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship Sport</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
 			<availability>транзит</availability>
 			<custom>растаможен</custom>
@@ -1436,7 +1506,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<tradein_discount>380000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S17RB148011</vin>
+			<vin>LB3FX1S11RB148764</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -1474,18 +1544,18 @@ Geely Atlas – ультрасовременный семейный кроссо
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/cdda4b1d718a7c78ad02447b5a8b15fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/982432af5d7aed69b6623eb68157dc56.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/c59f81edb41da6352d85ce65c02d1f18.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/43fef55cf40ad60481a6133db095e04b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/e2c43ccfb2d082e8da9e94b1ff76f9ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/e67ca30f4b4cce5c6e709f0a25712e4b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/1912ec1277936e13deec4c6160d6171c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/9efb0d97c4537a545830d1bdfb1a5230.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/994d1609354bc2bf22ac62fd8813d546.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/0445d894679d587748e609bb30e344ba.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/8600fe13a80e4b8629f335b038cdfff7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/f6bfb017baba800febbd3c8020f67f6e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/0b1f857222f782c834af189e55b37541.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/6376d7737b743cc92004a9a4175ab380.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/9ee1becaca7ca93acaf2e7b0595b5f5a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/28aebab6c09e49c0b5f3fd034a43116f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/de5fba2a48e1654203d7db7217b8a680.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/d6dfab16bf2e7f590271bbf90a9632d9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/69c12dfcd38f4f8fddc93ef1bc79a1ce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/682450d412e1e72e10483c98c7ea38bb.jpg</image>
 			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
 			<unique_id>4235b1f39ea2a0306fd69983bd7ece34</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1627,77 +1697,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			</images>
 		<max_discount>1300480</max_discount><priceWithDiscount>2716710</priceWithDiscount><sale_price>2716710</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>5c02ce0a888d7b47d7de3428ed4a8ce6</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4017190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>380000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S11RB148764</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Atlas – ультрасовременный семейный кроссовер нового поколения. В нём гармонично соединились концептуальный дизайн, передовые технологии и практичные решения.
-Эмоциональный стиль Geely Atlas не оставляет равнодушным никого вокруг. Футуристичная решетка радиатора, выполненная в художественной концепции «блики на воде» дополняется контурной линией светодиодных ходовых огней и светящимся логотипом Geely.
-Современный 4-цилиндровый турбированный двигатель объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами. За счёт применённых технологий новый Geely Atlas способен разгоняться с места до 100 км/ч за 8,2 с, а расход топлива в смешанном цикле составляет всего 7,4 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова. Модульная архитектура предусматривает технологию лазерной сварки с глубоким проплавлением, что увеличивает прочность соединений на 50%. Дверной каркас выполнен из термоформованной стали, а в передней части установлена алюминиевая энергопоглощающая балка (элемент буферной зоны).
-Большой вертикальный мультимедийный дисплей диагональю 13,2” отличается современной графикой и быстродействием, а также высокой четкостью.
-10,2-дюймовой цифровой комбинацией приборов высокой четкости вся необходимая информация как на ладони.
-Уникальность Вашего стиля прекрасно подчеркнёт новая специальная комплектация Flagship Sport, которая отличается особыми элементами.
-
-В экстерьере:
-
-• Двухцветные колёсные диски 20” особого дизайна
-• Двухцветная окраска кузова с элементами в чёрном цвете – крыша, рейлинги, спойлер, корпуса наружных зеркал, накладки на дверях, бейджи на багажной двери
-• Подсветка логотипа Geely и светодиодной линии дневных ходовых огней по всей ширине решётки радиатора
-В интерьере:
-• Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/8600fe13a80e4b8629f335b038cdfff7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/f6bfb017baba800febbd3c8020f67f6e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/0b1f857222f782c834af189e55b37541.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/6376d7737b743cc92004a9a4175ab380.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/9ee1becaca7ca93acaf2e7b0595b5f5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/28aebab6c09e49c0b5f3fd034a43116f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/de5fba2a48e1654203d7db7217b8a680.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/d6dfab16bf2e7f590271bbf90a9632d9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/69c12dfcd38f4f8fddc93ef1bc79a1ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11RB148764/682450d412e1e72e10483c98c7ea38bb.jpg</image>
-			</images>
-		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
-		<car>
-			<unique_id>ae9be7f869bfb055102b700e193a315c</unique_id>
+			<unique_id>f4eaff0c82a43284e156ea254ddc3dd4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -1716,7 +1716,7 @@ Geely Atlas – ультрасовременный семейный кроссо
 			<tradein_discount>380000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S10RB147167</vin>
+			<vin>LB3FX1S17RB148011</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -1754,16 +1754,16 @@ Geely Atlas – ультрасовременный семейный кроссо
 В интерьере:
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/eb440c3135eef81a31b05abf9d34f1d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/852cc6b758c9dc50dc701d8810735726.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/718a2d315a40a6f5f674064cde69ed56.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/7f0ccf3dcbc9627fc48df0261888df3e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/19c311902e79b26f789bb47cecb654f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/b49a87789710d722435ea2128e99a142.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/418e54e5993f1373e7b0f7ae60cdc82e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/955ebc4655c0b93d64b68c8abcab5123.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/40c5d56c7dfaf601220b564b8a4e056c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB147167/cb96f657cef32bc28c224bf133a767da.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/cdda4b1d718a7c78ad02447b5a8b15fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/982432af5d7aed69b6623eb68157dc56.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/c59f81edb41da6352d85ce65c02d1f18.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/43fef55cf40ad60481a6133db095e04b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/e2c43ccfb2d082e8da9e94b1ff76f9ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/e67ca30f4b4cce5c6e709f0a25712e4b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/1912ec1277936e13deec4c6160d6171c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/9efb0d97c4537a545830d1bdfb1a5230.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/994d1609354bc2bf22ac62fd8813d546.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB148011/0445d894679d587748e609bb30e344ba.jpg</image>
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>3087190</priceWithDiscount><sale_price>3087190</sale_price><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серый-2024/</url></car>
 		<car>
@@ -1828,7 +1828,7 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<max_discount>600000</max_discount><priceWithDiscount>2254190</priceWithDiscount><sale_price>2254190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-comfort-белый-2024/</url></car>
 		<car>
-			<unique_id>676495566bb8ecba501b25cff88b7ef4</unique_id>
+			<unique_id>2c215a82a928c0d0d7ee1427530b8c7f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -1837,7 +1837,7 @@ Geely Cityray – современный технологичный кроссо
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
-			<availability>в наличии</availability>
+			<availability>транзит</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
@@ -1847,7 +1847,7 @@ Geely Cityray – современный технологичный кроссо
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S9XRX305368</vin>
+			<vin>LB3G43S99RX302624</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -1875,16 +1875,16 @@ Geely Cityray – современный технологичный кроссо
 Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
 Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/9055d71cf78c98a8c636152cc00a7f37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/49f95c1c08ee2450f2cbbf1a2c35d84c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/3be0ded44a47146c083443ef9f4e0027.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/9b339936b38a296041343d80c8a2302a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/043b70f2b9b17a5669fc0b2d07b5954f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/ec3281f6abb55fdc0bacf2c0435b9ba2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/518cf09934e2a9123381e7de02bd728e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/b503cd075aca8f7095738a9a2fc32c37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/103160419180a8a5e85ba74d612a1d9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/6632c67c8ce947ac0360e6b886045547.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/a7606640e8ceb5df7a850a12f0339323.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/3e7e3e552e945ab43e3ae201eca1ceb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/ff5adf5a70812dc173d881f02619d779.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/584c9a598557dc2ab640e457e89ffec5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/6adef99451a73be870b57d49ab3dd949.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/4ca121447f2f428c0dd5e785e8830cb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/31f1a219355882fc928b0c2c1cc8b2fc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/f79228250e0037d9f2817df1b8330bc2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/5c9e7560380a11c116a3854b55e7c5e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/3a4a16f521536884571098778204f6dc.jpg</image>
 			</images>
 		<max_discount>750000</max_discount><priceWithDiscount>2464190</priceWithDiscount><sale_price>2464190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
@@ -2008,7 +2008,7 @@ Geely Cityray – современный технологичный кроссо
 			</images>
 		<max_discount>750000</max_discount><priceWithDiscount>2464190</priceWithDiscount><sale_price>2464190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>2c215a82a928c0d0d7ee1427530b8c7f</unique_id>
+			<unique_id>676495566bb8ecba501b25cff88b7ef4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -2017,7 +2017,7 @@ Geely Cityray – современный технологичный кроссо
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2024</year>
@@ -2027,7 +2027,7 @@ Geely Cityray – современный технологичный кроссо
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S99RX302624</vin>
+			<vin>LB3G43S9XRX305368</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -2055,78 +2055,18 @@ Geely Cityray – современный технологичный кроссо
 Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
 Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/a7606640e8ceb5df7a850a12f0339323.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/3e7e3e552e945ab43e3ae201eca1ceb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/ff5adf5a70812dc173d881f02619d779.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/584c9a598557dc2ab640e457e89ffec5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/6adef99451a73be870b57d49ab3dd949.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/4ca121447f2f428c0dd5e785e8830cb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/31f1a219355882fc928b0c2c1cc8b2fc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/f79228250e0037d9f2817df1b8330bc2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/5c9e7560380a11c116a3854b55e7c5e6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S99RX302624/3a4a16f521536884571098778204f6dc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/9055d71cf78c98a8c636152cc00a7f37.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/49f95c1c08ee2450f2cbbf1a2c35d84c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/3be0ded44a47146c083443ef9f4e0027.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/9b339936b38a296041343d80c8a2302a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/043b70f2b9b17a5669fc0b2d07b5954f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/ec3281f6abb55fdc0bacf2c0435b9ba2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/518cf09934e2a9123381e7de02bd728e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/b503cd075aca8f7095738a9a2fc32c37.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/103160419180a8a5e85ba74d612a1d9b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XRX305368/6632c67c8ce947ac0360e6b886045547.jpg</image>
 			</images>
 		<max_discount>750000</max_discount><priceWithDiscount>2464190</priceWithDiscount><sale_price>2464190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>95ab32a85219c1de08df88596338b67e</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>3254190</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S93RX307947</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
-Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
-Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
-Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
-Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/a2a2853a89d19c04956899baf816d09e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/075a2ced3efedc13d605fb90557037f4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/bcf566be27c6f0d90e32896348277ce2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/a9b177e7ddf7e93057241416dcd94e60.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/f7d97e1b0d16ca867088f05b7cae3689.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/1bb7f1821563d0309e59e622dcc521f5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/804da09aa4a655175141b3a1cf358bf8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/3d1d36fe872688ceca91fc297dcfeb9e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/c7cf1251cdc5ff63ffdce5f793a11d80.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/8806b94d7668f99062fc281d4e75ab74.jpeg</image>
-			</images>
-		<max_discount>470000</max_discount><priceWithDiscount>2784190</priceWithDiscount><sale_price>2784190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-белый-2024/</url></car>
 		<car>
 			<unique_id>3b7fb4f27fc398f824e142f4d933ad6e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2185,6 +2125,66 @@ Geely Cityray – современный технологичный кроссо
 				<image>https://photo.toyotasever.ru/LB3G43S95RX307884/25c9aacb7fcfa881daf650c983143183.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3G43S95RX307884/ba80ed6c5852c934bb64af9dcc604b11.jpeg</image>
 				<image>https://photo.toyotasever.ru/LB3G43S95RX307884/b2443fe578dd8364813aca9a90ace679.jpeg</image>
+			</images>
+		<max_discount>470000</max_discount><priceWithDiscount>2784190</priceWithDiscount><sale_price>2784190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-белый-2024/</url></car>
+		<car>
+			<unique_id>95ab32a85219c1de08df88596338b67e</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>3254190</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>100000</insurance_discount>
+			<tradein_discount>220000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S93RX307947</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Cityray – современный технологичный кроссовер с харизматичным дизайном и просторным салоном. Для города и не только.
+Футуристичный и яркий дизайн экстерьера Geely Cityray выделяется смелым сочетанием современного городского стиля и технологичности. Широкая безрамочная решетка радиатора, дополненная контурной линией светодиодных ходовых огней, передний бампер с акцентными элементами выделяют кроссовер в потоке и делают его образ запоминающимся.
+Современный 4-цилиндровый турбированный двигатель объёмом 1,5 литра развивает мощность до 147 л.с. и крутящий момент до 270 Н∙м. Он разработан совместно шведскими и китайскими инженерами Geely. За счёт применённых технологий разгон с места до 100 км/ч у нового Geely Cityray составляет 8,9 с, при этом двигатель экономичен – в смешанном цикле расход топлива составляет 6,5 л/100 км* (по циклу NEDC).
+Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
+Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/a2a2853a89d19c04956899baf816d09e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/075a2ced3efedc13d605fb90557037f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/bcf566be27c6f0d90e32896348277ce2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/a9b177e7ddf7e93057241416dcd94e60.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/f7d97e1b0d16ca867088f05b7cae3689.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/1bb7f1821563d0309e59e622dcc521f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/804da09aa4a655175141b3a1cf358bf8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/3d1d36fe872688ceca91fc297dcfeb9e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/c7cf1251cdc5ff63ffdce5f793a11d80.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S93RX307947/8806b94d7668f99062fc281d4e75ab74.jpeg</image>
 			</images>
 		<max_discount>470000</max_discount><priceWithDiscount>2784190</priceWithDiscount><sale_price>2784190</sale_price><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-лс-flagship-sport-белый-2024/</url></car>
 		<car>
@@ -3103,78 +3103,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>15cac81ad41273c6a3a82b4f79cf432b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>СИНИЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>5052190</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>420000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS181492</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/4dad6b96cbc710d73f445adce34a96f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/29d9fc1d3f9d7342a336a6a87862b7ac.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/890c79f6e38b91ca10c441e95ea1c86a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/6511e6d4c672da77d8d18f9c9312e6a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/6f9d0db3461b8e08d87e6bb01a1267a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/07b145446f7540596cd8c38e942ce963.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/b22c6137a9e1bb09bf19261cdde5591b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/1bc5c1697608db1c683f843d78a8d428.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/ff1e3206998240e1d2ab213ba3a8fdb8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/4f1c396717be90ef28057b363d788e70.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/3955f6ea39b687ca6f9fb491e727fee0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/9430ac24483657cbf1c62b00c8e68280.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/eed0594da43f9a99741a4a451f439985.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/48e7e71ac77abf37d5550f7c55ccae2a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/611f46a109ead4fea223874491e7f7ae.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/84f2a6e973e7f672a0df4a41b6828ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/d23a8a0a94cb7d1f83a5bc0335c605d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS181492/7a904b633cf3e2370859a158040dbee2.jpg</image>
-			</images>
-		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
 			<unique_id>d32b42bc477d49d952d728ff03a263d4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -3244,6 +3172,78 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/9aba4699da7e5704b2ca4ee1ffb966c5.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/0996782d6d607837979adf653929ca6f.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2RS150672/4a7dd71e45bd13321b8581c55e978bab.jpg</image>
+			</images>
+		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>15cac81ad41273c6a3a82b4f79cf432b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>СИНИЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>5052190</price>
+			<credit_discount>450000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>420000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS181492</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/4dad6b96cbc710d73f445adce34a96f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/29d9fc1d3f9d7342a336a6a87862b7ac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/890c79f6e38b91ca10c441e95ea1c86a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/6511e6d4c672da77d8d18f9c9312e6a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/6f9d0db3461b8e08d87e6bb01a1267a9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/07b145446f7540596cd8c38e942ce963.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/b22c6137a9e1bb09bf19261cdde5591b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/1bc5c1697608db1c683f843d78a8d428.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/ff1e3206998240e1d2ab213ba3a8fdb8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/4f1c396717be90ef28057b363d788e70.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/3955f6ea39b687ca6f9fb491e727fee0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/9430ac24483657cbf1c62b00c8e68280.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/eed0594da43f9a99741a4a451f439985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/48e7e71ac77abf37d5550f7c55ccae2a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/611f46a109ead4fea223874491e7f7ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/84f2a6e973e7f672a0df4a41b6828ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/d23a8a0a94cb7d1f83a5bc0335c605d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS181492/7a904b633cf3e2370859a158040dbee2.jpg</image>
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
@@ -3319,70 +3319,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>037c62da4c7d0c435191431e7ef06e60</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>5052190</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>420000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS207245</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/ca82b8feba3d03f35df6f306b6bcba78.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/51151c3dfbcd181df3adb0ca12d12d9c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/d1e939795482611944573556807b38b3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/03fa1277819df9b57bef54ab5571339b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/420be7eaf4b94fe63f4538c746919ae0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/c0696bd585c7db6a4a4747bdd04fb027.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/141e7f61ab9c2785002e8c87082e144e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/78b52b634edf97ae5af4b2afd979bcf9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/457a6135f8ef037da16ecace38403149.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS207245/42de3f46b29b83f7abb2c23b7ba19425.jpg</image>
-			</images>
-		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
 			<unique_id>328e5c7f644334533fff4d30bc407f2b</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -3444,6 +3380,70 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 				<image>https://photo.toyotasever.ru/LB37852D0RS197215/07460fc3b9dd65cec95cc6012ef90b6c.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS197215/8fef27ccfe8d0c07a9de3cfe46020cea.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS197215/88930ed9343567922c28db97c74df73d.jpg</image>
+			</images>
+		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>037c62da4c7d0c435191431e7ef06e60</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>транзит</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>5052190</price>
+			<credit_discount>450000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>420000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6RS207245</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/ca82b8feba3d03f35df6f306b6bcba78.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/51151c3dfbcd181df3adb0ca12d12d9c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/d1e939795482611944573556807b38b3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/03fa1277819df9b57bef54ab5571339b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/420be7eaf4b94fe63f4538c746919ae0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/c0696bd585c7db6a4a4747bdd04fb027.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/141e7f61ab9c2785002e8c87082e144e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/78b52b634edf97ae5af4b2afd979bcf9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/457a6135f8ef037da16ecace38403149.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS207245/42de3f46b29b83f7abb2c23b7ba19425.jpg</image>
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3772190</priceWithDiscount><sale_price>3772190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
@@ -3847,18 +3847,18 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>4dcde9558518257940b46c397cf59cfd</unique_id>
+			<unique_id>480b54ba3a24585fda4d48a6f0dc90a7</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
+			<color>БЕЛЫЙ</color>
 			<metallic>да</metallic>
-			<availability>в наличии</availability>
+			<availability>транзит</availability>
 			<custom>растаможен</custom>
-			<run>21</run>
+			<run>1</run>
 			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>450000</credit_discount>
@@ -3866,7 +3866,7 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			<tradein_discount>420000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D0RS185579</vin>
+			<vin>LB37852D4RS228143</vin>
 			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
 ❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
  ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
@@ -3898,9 +3898,18 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 
 С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS185579/b39bd8b94f70013a916317e08ec696b3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/d4ffa5e31e1fc4cdfb6b7a113123bc92.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/0ba5f94ea8a63c163b4c67419321bcda.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/6b2c5b970c2a4654df2f241fb49fcbe0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/f41681a3c024c848bf5027c042b5f8d0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/0a2bbc37a08bf98e9febe63e52462287.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/ddb4c08cf4095a069cb03ec9ef86209a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/2579dc5cb1c2a322597806ee3fb51e02.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/564a0a5037e3098a711973c60607f8bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/37fd537d9f9ec7afbd8b6dcafae192fe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4RS228143/50ea15a985449df20873294f64b35695.jpg</image>
 			</images>
-		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>3a6f10108baf279e3942d66ec4f17930</unique_id>
 			<mark_id>Geely</mark_id>
@@ -4439,6 +4448,61 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
+			<unique_id>4dcde9558518257940b46c397cf59cfd</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>21</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>450000</credit_discount>
+			<insurance_discount>150000</insurance_discount>
+			<tradein_discount>420000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D0RS185579</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
+
+Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
+
+Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
+
+Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
+
+С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0RS185579/b39bd8b94f70013a916317e08ec696b3.jpg</image>
+			</images>
+		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
 			<unique_id>1bc0a9b90a371d10e860b4854f8b4cf3</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -4496,70 +4560,6 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 				<image>https://photo.toyotasever.ru/LB37852D0RS110073/75a52631b81c7630f1dea266dc5ef074.jpg</image>
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>480b54ba3a24585fda4d48a6f0dc90a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>да</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
-			<tradein_discount>420000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS228143</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Gееly Моnjаrо — это сочетание комфорта, безопасности и современных технологий.
-
-Просторный салон с комбинированной обивкой и регулируемыми передними сиденьями обеспечивает удобство как для водителя, так и для пассажиров. Многозонный климат-контроль поддерживает оптимальную температуру в салоне, а обогрев всех сидений и рулевого колеса согреет в холодное время года.
-
-Gееly Моnjаrо оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, систему автоматической парковки, датчики давления в шинах и усталости водителя. А также имеет широкий спектр ассистентов вождения, таких как система контроля слепых зон, система помощи при старте в гору и система предотвращения столкновения.
-
-Благодаря светодиодным фарам, датчикам дождя и света, а также системе управления дальним светом, Gееly Моnjаrо обеспечивает отличную видимость в любых погодных условиях.
-
-С Gееly Моnjаrо вы получаете автомобиль, который не только отвечает всем современным требованиям, но и предлагает высокий уровень комфорта и безопасности.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/d4ffa5e31e1fc4cdfb6b7a113123bc92.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/0ba5f94ea8a63c163b4c67419321bcda.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/6b2c5b970c2a4654df2f241fb49fcbe0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/f41681a3c024c848bf5027c042b5f8d0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/0a2bbc37a08bf98e9febe63e52462287.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/ddb4c08cf4095a069cb03ec9ef86209a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/2579dc5cb1c2a322597806ee3fb51e02.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/564a0a5037e3098a711973c60607f8bd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/37fd537d9f9ec7afbd8b6dcafae192fe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4RS228143/50ea15a985449df20873294f64b35695.jpg</image>
-			</images>
-		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>501e96a66336ed0c3d20f4b0d7906d0e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -4688,6 +4688,91 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 				<image>https://photo.toyotasever.ru/LB37852D2RS184921/93b09277eb2f805658d2dd125f42134b.jpg</image>
 			</images>
 		<max_discount>1280000</max_discount><priceWithDiscount>3572190</priceWithDiscount><sale_price>3572190</sale_price><url>https://geely-partner-samara.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>df2cf97fe9fd76ce890ac702c42ecdf0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango, I Рестайлинг</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>3847190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>373000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S62RY030254</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+
+Gееly Оkаvаngо I Рестайлинг, 2024
+
+Откройте для себя новый уровень комфорта и безопасности с Gееly Оkаvаngо I Рестайлинг 2024 года. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
+
+Дизайн и комфорт
+
+Элегантный синий цвет кузова, 19-дюймовые диски и панорамная крыша создают неповторимый образ автомобиля. Искусственная кожа обивки салона придаёт интерьеру роскошный вид.
+
+Технологии
+
+Светодиодные фары обеспечивают отличную видимость в тёмное время суток. Бортовой компьютер, Вluеtооth, СаrРlаy, USВ и беспроводная зарядка для смартфона делают поездки ещё более удобными.
+
+Безопасность
+
+Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), подушки безопасности водителя и пассажира, боковые подушки безопасности, оконные подушки безопасности (шторки), а также системы контроля слепых зон и помощи при старте в гору обеспечивают высокий уровень безопасности.
+
+Комфорт и удобство
+
+Двухзонный климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, сиденья с памятью положения и электрорегулировкой, круиз-контроль и дистанционный запуск двигателя делают каждую поездку максимально комфортной.
+
+Gееly Оkаvаngо I Рестайлинг — это идеальный выбор для тех, кто ценит комфорт, безопасность и современные технологии.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/3d62bdaef412782ed244627018832e45.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/892fefcfecabaf784fcb70ab6a537929.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/812f1bd7243687560deacca2fb89f01e.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/d7848d609f5c5feb8d55a6edd82ab62d.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/358bca64524718acbb9c2291ebeb73fd.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/9770e72d2170f89147d3951d6bcf3e33.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/33a4fd43e1b1ad374e8bd023b0e142da.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/155e76172ccb6bf749afb1799ad1ff20.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/3b633b3f3fa187b93d8384e159ad6185.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/1c974530143c0bbb8922160f12a26401.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/d8700faf9a41d68fff4919cafd90994a.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/7479ba61eebed806a65286317bf21389.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/cdf5bd982b349eaff6e91a60999e0749.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/e5d9ba8eec9a4b95281933c16662f3d9.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/acc885c9972d977bef5978f22c824e54.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/6d1faacdbc74add6b0f962c570a2ac9d.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/8a4a91aca27eb20ca310c95a6d4da90b.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/50656dbd46066733e1fe8084e64152ba.jpeg</image>
+			</images>
+		<max_discount>723000</max_discount><priceWithDiscount>3124190</priceWithDiscount><sale_price>3124190</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>1745c0dec8f240aff94694118ce6041f</unique_id>
 			<mark_id>Geely</mark_id>
@@ -5079,91 +5164,6 @@ Gееly Оkаvаngо I Рестайлинг — это идеальный выб
 			</images>
 		<max_discount>723000</max_discount><priceWithDiscount>3124190</priceWithDiscount><sale_price>3124190</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>df2cf97fe9fd76ce890ac702c42ecdf0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango, I Рестайлинг</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>3847190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>373000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S62RY030254</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-
-Gееly Оkаvаngо I Рестайлинг, 2024
-
-Откройте для себя новый уровень комфорта и безопасности с Gееly Оkаvаngо I Рестайлинг 2024 года. Этот автомобиль оснащён всем необходимым для комфортных поездок по городу и за его пределами.
-
-Дизайн и комфорт
-
-Элегантный синий цвет кузова, 19-дюймовые диски и панорамная крыша создают неповторимый образ автомобиля. Искусственная кожа обивки салона придаёт интерьеру роскошный вид.
-
-Технологии
-
-Светодиодные фары обеспечивают отличную видимость в тёмное время суток. Бортовой компьютер, Вluеtооth, СаrРlаy, USВ и беспроводная зарядка для смартфона делают поездки ещё более удобными.
-
-Безопасность
-
-Антиблокировочная система тормозов (АВS), система курсовой стабилизации (ЕSР / ЕSС / DSС / VSА), подушки безопасности водителя и пассажира, боковые подушки безопасности, оконные подушки безопасности (шторки), а также системы контроля слепых зон и помощи при старте в гору обеспечивают высокий уровень безопасности.
-
-Комфорт и удобство
-
-Двухзонный климат-контроль, регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, сиденья с памятью положения и электрорегулировкой, круиз-контроль и дистанционный запуск двигателя делают каждую поездку максимально комфортной.
-
-Gееly Оkаvаngо I Рестайлинг — это идеальный выбор для тех, кто ценит комфорт, безопасность и современные технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/3d62bdaef412782ed244627018832e45.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/892fefcfecabaf784fcb70ab6a537929.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/812f1bd7243687560deacca2fb89f01e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/d7848d609f5c5feb8d55a6edd82ab62d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/358bca64524718acbb9c2291ebeb73fd.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/9770e72d2170f89147d3951d6bcf3e33.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/33a4fd43e1b1ad374e8bd023b0e142da.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/155e76172ccb6bf749afb1799ad1ff20.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/3b633b3f3fa187b93d8384e159ad6185.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/1c974530143c0bbb8922160f12a26401.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/d8700faf9a41d68fff4919cafd90994a.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/7479ba61eebed806a65286317bf21389.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/cdf5bd982b349eaff6e91a60999e0749.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/e5d9ba8eec9a4b95281933c16662f3d9.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/acc885c9972d977bef5978f22c824e54.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/6d1faacdbc74add6b0f962c570a2ac9d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/8a4a91aca27eb20ca310c95a6d4da90b.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S62RY030254/50656dbd46066733e1fe8084e64152ba.jpeg</image>
-			</images>
-		<max_discount>723000</max_discount><priceWithDiscount>3124190</priceWithDiscount><sale_price>3124190</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
 			<unique_id>3b7ae647ec79384e615b1f4a2940fa64</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango, I Рестайлинг</folder_id>
@@ -5237,6 +5237,166 @@ Gееly Оkаvаngо I Рестайлинг — это идеальный выб
 				<image>https://photo.toyotasever.ru/L6TVX1S64RY017991/bb46e5f2b9894122fc359597801ebe13.jpg</image>
 			</images>
 		<max_discount>723000</max_discount><priceWithDiscount>2974190</priceWithDiscount><sale_price>2974190</sale_price><url>https://geely-partner-samara.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>0fe4d4ddc72b4f9645afd578e1875c31</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>16</run>
+			<year>2024</year>
+			<price>3567190</price>
+			<credit_discount>281800</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S83RD096341</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Preface — это элегантный седан бизнес-класса, подчёркивающий статус своего владельца. Его отличают впечатляющий дизайн, просторный и комфортабельный салон, а также отличные динамические характеристики. Этот автомобиль идеально подходит для деловых людей, ценящих стиль и качество.
+Впечатляющая решетка радиатора Geely Preface и Т-образный декор боковых воздухозаборников усиливает притягательный образ покорителя дорог, способного дарить чувство истинной свободы.
+Современный 4-цилиндровый турбомотор объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами по мировым стандартам. Новый Geely Preface способен разгоняться с места до 100 км /ч за 7,1 с, а расход топлива в смешанном цикле составляет всего 7,2 л/100 км* (по циклу NEDC).
+Во всех комплектациях Geely Preface оборудован современными системами активной безопасности:
+
+• Антиблокировочная система тормозов (ABS)
+• Электронная система распределения тормозного усилия (EBD)
+• Система помощи при экстренном торможении (EBA)
+• Электронная система стабилизации (ESC)
+• Противобуксовочная система (TCS)
+• Электрический стояночный тормоз (EPB)
+• Система автоматического удержания стояночного тормоза (AutoHold)
+• Система помощи при старте на подъеме (HАC)
+Высококачественный интерьер Geely Preface представляет собой гармоничное сочетание премиального комфорта и функциональности. Отделка салона выполнена из высококачественных материалов, а сиденья обеспечивают идеальную поддержку и комфорт во время длительных поездок. Центральная консоль украшена элегантными кнопками управления с матовым хромированным покрытием. Здесь расположен сенсорный дисплей мультимедийной системы, который обеспечивает доступ к музыке и различным функциям автомобиля.
+На 10,2-дюймовой цифровой комбинации приборов высокой четкости вся необходимая информация как на ладони.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/2ec80c73da8bec5d46b38bf9de993cbd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/417d9adfe4fe98f4da7fe4a330b55f34.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/953d25b1f0f8a53399a29db23bceff1e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/2323fb0392bd4266ecb74e975536527a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/9b66313130696ba4d16a88504f9e5b17.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/6dbb35f476e77fc81519e89a498bf2b2.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/84d1d9380808d2c75d912506d79995e6.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/97c8ac8dd0f3da0cfd3cafd8a4899063.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/ff4979198c0069d31032f7f84d4a2499.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/1b76f0dc95b064384e2361c1f4fd1693.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/43350607c6e4d42d6520d0e598722095.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/fb9d3196a49f14153c10160e09becf0b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/0cfcbaa1832bbd8e95c066b930145d99.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/546513f67efbd0413dc921b408307d11.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/88c2d604530b077513835ef4d124df7a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/4cbc5b7a8ac07d59a5ef8b749c0992b6.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/ae25bec7986ca5a74a6816803c0ff681.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/75437fe56c9e879c9ec4946e4afdfb35.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/5417c4cd1173544fe3d7d6155a1195bc.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/f2db67f496a91d4e054031eac3ff0576.jpg</image>
+			</images>
+		<max_discount>631800</max_discount><priceWithDiscount>2935390</priceWithDiscount><sale_price>2935390</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
+		<car>
+			<unique_id>fb7582771076434ca3dd064928dc76d2</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>ЧЕРНЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>3567190</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>258000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S88RD120617</vin>
+			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
+❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+ ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель* — бесплатное хранение шин в межсезонье! 
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
+ ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
+ ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+ ПОЧЕМУ GEELY?
+ GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
+ Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
+ Напротив ТЦ Мега
+ Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
+
+
+Geely Preface — это элегантный седан бизнес-класса, подчёркивающий статус своего владельца. Его отличают впечатляющий дизайн, просторный и комфортабельный салон, а также отличные динамические характеристики. Этот автомобиль идеально подходит для деловых людей, ценящих стиль и качество.
+Впечатляющая решетка радиатора Geely Preface и Т-образный декор боковых воздухозаборников усиливает притягательный образ покорителя дорог, способного дарить чувство истинной свободы.
+Современный 4-цилиндровый турбомотор объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами по мировым стандартам. Новый Geely Preface способен разгоняться с места до 100 км /ч за 7,1 с, а расход топлива в смешанном цикле составляет всего 7,2 л/100 км* (по циклу NEDC).
+Во всех комплектациях Geely Preface оборудован современными системами активной безопасности:
+
+• Антиблокировочная система тормозов (ABS)
+• Электронная система распределения тормозного усилия (EBD)
+• Система помощи при экстренном торможении (EBA)
+• Электронная система стабилизации (ESC)
+• Противобуксовочная система (TCS)
+• Электрический стояночный тормоз (EPB)
+• Система автоматического удержания стояночного тормоза (AutoHold)
+• Система помощи при старте на подъеме (HАC)
+Высококачественный интерьер Geely Preface представляет собой гармоничное сочетание премиального комфорта и функциональности. Отделка салона выполнена из высококачественных материалов, а сиденья обеспечивают идеальную поддержку и комфорт во время длительных поездок. Центральная консоль украшена элегантными кнопками управления с матовым хромированным покрытием. Здесь расположен сенсорный дисплей мультимедийной системы, который обеспечивает доступ к музыке и различным функциям автомобиля.
+На 10,2-дюймовой цифровой комбинации приборов высокой четкости вся необходимая информация как на ладони.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/c92acac7c471d5b99f13b875b6662221.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/346b1701632facfeb4fc39a5391ef9c8.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/b6c6902bd5d19ece24c14315b0f4c090.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/ccef2b8559f77e32a4dac54c2f3c3231.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/411dace40ba2d0e26d0af24fe4a7b2f9.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/ed671858b83f2d60e79d4a9d37e03692.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/f15d14107563d02c0b406197ce118f3e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/5ceedb481669a654bf0b9d4fe8f7adab.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/bdcbe4767e053a6637c62b3cce184639.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/844da390d9521b75d5eb1f7cc40ceccf.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/651cf549573594993b5f73f41dc0c7d1.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9ce6c00dc4d1f3d270aa5eae9aea6abc.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/942fde9eb8b53a9cd9a8a9ead75ed450.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/2aaa5484f1b0b9cafbc6f80a587310ba.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/e6968091b054478c5d7f5a53d7fb1050.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/8ee2b7527c1473acb443d1bec673bfbf.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9de0a1046e1a70777adffe5fbdee4895.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9e2f3d20ecac71b54accfd564f97e5b3.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/0b0bcba15e75406af1eb4569cecdb36f.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/1ba9d2fe696fd06f9f2d55eda2f7295e.jpg</image>
+			</images>
+		<max_discount>458000</max_discount><priceWithDiscount>3109190</priceWithDiscount><sale_price>3109190</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>91dfb35051d591b0cc1fb952dad9019d</unique_id>
 			<mark_id>Geely</mark_id>
@@ -5432,165 +5592,5 @@ Geely Preface — это элегантный седан бизнес-класс
 				<image>https://photo.toyotasever.ru/L6TFS1S84RD155977/0c59d585228daaacf65c5dfe21b0294a.jpg</image>
 			</images>
 		<max_discount>458000</max_discount><priceWithDiscount>3109190</priceWithDiscount><sale_price>3109190</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>fb7582771076434ca3dd064928dc76d2</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3567190</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>258000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S88RD120617</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Preface — это элегантный седан бизнес-класса, подчёркивающий статус своего владельца. Его отличают впечатляющий дизайн, просторный и комфортабельный салон, а также отличные динамические характеристики. Этот автомобиль идеально подходит для деловых людей, ценящих стиль и качество.
-Впечатляющая решетка радиатора Geely Preface и Т-образный декор боковых воздухозаборников усиливает притягательный образ покорителя дорог, способного дарить чувство истинной свободы.
-Современный 4-цилиндровый турбомотор объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами по мировым стандартам. Новый Geely Preface способен разгоняться с места до 100 км /ч за 7,1 с, а расход топлива в смешанном цикле составляет всего 7,2 л/100 км* (по циклу NEDC).
-Во всех комплектациях Geely Preface оборудован современными системами активной безопасности:
-
-• Антиблокировочная система тормозов (ABS)
-• Электронная система распределения тормозного усилия (EBD)
-• Система помощи при экстренном торможении (EBA)
-• Электронная система стабилизации (ESC)
-• Противобуксовочная система (TCS)
-• Электрический стояночный тормоз (EPB)
-• Система автоматического удержания стояночного тормоза (AutoHold)
-• Система помощи при старте на подъеме (HАC)
-Высококачественный интерьер Geely Preface представляет собой гармоничное сочетание премиального комфорта и функциональности. Отделка салона выполнена из высококачественных материалов, а сиденья обеспечивают идеальную поддержку и комфорт во время длительных поездок. Центральная консоль украшена элегантными кнопками управления с матовым хромированным покрытием. Здесь расположен сенсорный дисплей мультимедийной системы, который обеспечивает доступ к музыке и различным функциям автомобиля.
-На 10,2-дюймовой цифровой комбинации приборов высокой четкости вся необходимая информация как на ладони.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/c92acac7c471d5b99f13b875b6662221.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/346b1701632facfeb4fc39a5391ef9c8.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/b6c6902bd5d19ece24c14315b0f4c090.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/ccef2b8559f77e32a4dac54c2f3c3231.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/411dace40ba2d0e26d0af24fe4a7b2f9.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/ed671858b83f2d60e79d4a9d37e03692.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/f15d14107563d02c0b406197ce118f3e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/5ceedb481669a654bf0b9d4fe8f7adab.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/bdcbe4767e053a6637c62b3cce184639.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/844da390d9521b75d5eb1f7cc40ceccf.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/651cf549573594993b5f73f41dc0c7d1.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9ce6c00dc4d1f3d270aa5eae9aea6abc.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/942fde9eb8b53a9cd9a8a9ead75ed450.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/2aaa5484f1b0b9cafbc6f80a587310ba.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/e6968091b054478c5d7f5a53d7fb1050.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/8ee2b7527c1473acb443d1bec673bfbf.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9de0a1046e1a70777adffe5fbdee4895.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/9e2f3d20ecac71b54accfd564f97e5b3.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/0b0bcba15e75406af1eb4569cecdb36f.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S88RD120617/1ba9d2fe696fd06f9f2d55eda2f7295e.jpg</image>
-			</images>
-		<max_discount>458000</max_discount><priceWithDiscount>3109190</priceWithDiscount><sale_price>3109190</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>0fe4d4ddc72b4f9645afd578e1875c31</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>ЧЕРНЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>16</run>
-			<year>2024</year>
-			<price>3567190</price>
-			<credit_discount>281800</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S83RD096341</vin>
-			<description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА GEELY В ПАРТНЕР-АВТО САМАРА! 
-❗ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый GEELY уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
- ПРИ ПОКУПКЕ GEELY ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель* — бесплатное хранение шин в межсезонье! 
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно! 
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-➕ А ЕЩЁ:  Индивидуальный подход к каждому клиенту  Поддержка и помощь на всех этапах покупки ✔️ Прозрачные условия без навязанных услуг
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!
- ✅ Кредит без первоначального взноса — сядьте за руль уже сегодня! 
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!
- ✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
- ПОЧЕМУ GEELY?
- GEELY — мировой лидер в автоиндустрии с проверенной репутацией ⚙️ Технологичность, безопасность и стиль — в каждой модели ️ Адаптация к российским условиям — идеален для наших дорог  Отличное соотношение цены и качества — каждый рубль работает на вас!
- Партнёр-Авто Самара — официальный дилер GEELY. Надёжность, забота и честность — наш стандарт!
- Напротив ТЦ Мега
- Позвоните нам прямо сейчас и получите персональное предложение!  Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!
-
-
-Geely Preface — это элегантный седан бизнес-класса, подчёркивающий статус своего владельца. Его отличают впечатляющий дизайн, просторный и комфортабельный салон, а также отличные динамические характеристики. Этот автомобиль идеально подходит для деловых людей, ценящих стиль и качество.
-Впечатляющая решетка радиатора Geely Preface и Т-образный декор боковых воздухозаборников усиливает притягательный образ покорителя дорог, способного дарить чувство истинной свободы.
-Современный 4-цилиндровый турбомотор объёмом 2,0 литра развивает мощность до 200 л.с. и крутящий момент до 325 Н∙м. Он разработан совместно шведскими и китайскими инженерами по мировым стандартам. Новый Geely Preface способен разгоняться с места до 100 км /ч за 7,1 с, а расход топлива в смешанном цикле составляет всего 7,2 л/100 км* (по циклу NEDC).
-Во всех комплектациях Geely Preface оборудован современными системами активной безопасности:
-
-• Антиблокировочная система тормозов (ABS)
-• Электронная система распределения тормозного усилия (EBD)
-• Система помощи при экстренном торможении (EBA)
-• Электронная система стабилизации (ESC)
-• Противобуксовочная система (TCS)
-• Электрический стояночный тормоз (EPB)
-• Система автоматического удержания стояночного тормоза (AutoHold)
-• Система помощи при старте на подъеме (HАC)
-Высококачественный интерьер Geely Preface представляет собой гармоничное сочетание премиального комфорта и функциональности. Отделка салона выполнена из высококачественных материалов, а сиденья обеспечивают идеальную поддержку и комфорт во время длительных поездок. Центральная консоль украшена элегантными кнопками управления с матовым хромированным покрытием. Здесь расположен сенсорный дисплей мультимедийной системы, который обеспечивает доступ к музыке и различным функциям автомобиля.
-На 10,2-дюймовой цифровой комбинации приборов высокой четкости вся необходимая информация как на ладони.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/2ec80c73da8bec5d46b38bf9de993cbd.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/417d9adfe4fe98f4da7fe4a330b55f34.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/953d25b1f0f8a53399a29db23bceff1e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/2323fb0392bd4266ecb74e975536527a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/9b66313130696ba4d16a88504f9e5b17.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/6dbb35f476e77fc81519e89a498bf2b2.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/84d1d9380808d2c75d912506d79995e6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/97c8ac8dd0f3da0cfd3cafd8a4899063.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/ff4979198c0069d31032f7f84d4a2499.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/1b76f0dc95b064384e2361c1f4fd1693.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/43350607c6e4d42d6520d0e598722095.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/fb9d3196a49f14153c10160e09becf0b.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/0cfcbaa1832bbd8e95c066b930145d99.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/546513f67efbd0413dc921b408307d11.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/88c2d604530b077513835ef4d124df7a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/4cbc5b7a8ac07d59a5ef8b749c0992b6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/ae25bec7986ca5a74a6816803c0ff681.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/75437fe56c9e879c9ec4946e4afdfb35.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/5417c4cd1173544fe3d7d6155a1195bc.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S83RD096341/f2db67f496a91d4e054031eac3ff0576.jpg</image>
-			</images>
-		<max_discount>631800</max_discount><priceWithDiscount>2935390</priceWithDiscount><sale_price>2935390</sale_price><url>https://geely-partner-samara.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
 		</cars>
 </data>
