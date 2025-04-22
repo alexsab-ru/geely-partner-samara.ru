@@ -400,14 +400,8 @@ def should_remove_car(car: ET.Element, mark_ids: list, folder_ids: list) -> bool
     return False
 
 
-def create_file(car, filename, friendly_url, current_thumbs, existing_files, config):
-    vin = car.find('vin').text
-    vin_hidden = process_vin_hidden(vin)
-    # Преобразование цвета
-    color = car.find('color').text.strip().capitalize()
-    model = car.find('folder_id').text.strip()
-    brand = car.find('mark_id').text.strip()
-
+def check_local_files(brand, model, color, vin):
+    """Проверяет наличие локальных файлов изображений."""
     folder = get_folder(brand, model)
     color_image = get_color_filename(brand, model, color)
     if folder and color_image:
@@ -415,9 +409,9 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
         thumb_brand_path = os.path.join("img", "models", brand.lower(), folder, "colors", color_image)
         # Проверяем, существует ли файл
         if os.path.exists(f"public/{thumb_path}"):
-            thumb = f"/{thumb_path}"
+            return f"/{thumb_path}"
         elif os.path.exists(f"public/{thumb_brand_path}"):
-            thumb = f"/{thumb_brand_path}"
+            return f"/{thumb_brand_path}"
         else:
             print("")
             errorText = f"VIN: {vin}. Не хватает файла цвета: {color}, {thumb_path}"
@@ -425,7 +419,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
             print("")
             with open('output.txt', 'a') as file:
                 file.write(f"{errorText}\n")
-            thumb = "https://cdn.alexsab.ru/errors/404.webp"
+            return "https://cdn.alexsab.ru/errors/404.webp"
     else:
         print("")
         errorText = f"VIN: {vin}. Не хватает бренд: {brand}, модели: {model}, цвета: {color}"
@@ -434,8 +428,37 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
         with open('output.txt', 'a') as file:
             file.write(f"{errorText}\n")
         # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
-        thumb = "https://cdn.alexsab.ru/errors/404.webp"
+        return "https://cdn.alexsab.ru/errors/404.webp"
 
+
+def create_file(car, filename, friendly_url, current_thumbs, existing_files, config):
+    vin = car.find('vin').text
+    vin_hidden = process_vin_hidden(vin)
+    # Преобразование цвета
+    color = car.find('color').text.strip().capitalize()
+    model = car.find('folder_id').text.strip()
+    brand = car.find('mark_id').text.strip()
+
+    # Получаем folder и color_image для CDN
+    folder = get_folder(brand, model)
+    color_image = get_color_filename(brand, model, color)
+
+    # Проверка через CDN сервис
+    if folder and color_image:
+        cdn_path = f"https://cdn.alexsab.ru/b/{brand.lower()}/img/models/{folder}/colors/{color_image}"
+        try:
+            response = requests.head(cdn_path)
+            if response.status_code == 200:
+                thumb = cdn_path
+            else:
+                # Если файл не найден в CDN, проверяем локальные файлы
+                thumb = check_local_files(brand, model, color, vin)
+        except requests.RequestException:
+            # В случае ошибки при проверке CDN, используем локальные файлы
+            thumb = check_local_files(brand, model, color, vin)
+    else:
+        # Если не удалось получить folder или color_image, проверяем локальные файлы
+        thumb = check_local_files(brand, model, color, vin)
 
     # Forming the YAML frontmatter
     content = "---\n"
@@ -446,6 +469,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
     else:
         content += "total: 1\n"
     # content += f"permalink: {friendly_url}\n"
+    content += f"vin_list: {vin}\n"
     content += f"vin_hidden: {vin_hidden}\n"
 
     h1 = join_car_data(car, 'mark_id', 'folder_id', 'modification_id')
@@ -629,6 +653,10 @@ def update_yaml(car, filename, friendly_url, current_thumbs, config):
 
 
     vin = car.find('vin').text
+    if vin is not None:
+        # Создаём или добавляем строку в список
+        data['vin_list'] += ", " + vin
+
     vin_hidden = process_vin_hidden(vin)
     if vin_hidden is not None:
         # Создаём или добавляем строку в список

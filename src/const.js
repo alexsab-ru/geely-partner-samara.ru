@@ -20,14 +20,20 @@ export const BRAND = 'Geely';
 //string 2025-12-31T23:59:59+04:00
 export const TIMER = { title: 'До конца акции осталось',subtitle: '', endtime: `${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00`, btnName: 'Зафиксировать цену', show: false };
 // Объект для бегущей строки
-export const MARQUEE = { title: 'Тотальная распродажа до', dateTo: `${LAST_DAY}.${MONTH}.${YEAR}`, count: [1,2,3,4,5,6,7,8], show: false };
+export const MARQUEE = { title: `Тотальная распродажа до ${LAST_DAY}.${MONTH}.${YEAR}`, count: 8, speed: 20, show: false };
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
 export const LINK_WIDGET_ORGNIZATION = '';
 // Ссылки под хедером
+import { groupArrayByKey } from '@/js/utils/groupArrayByKey';
 import modelsData from '@/data/models.json';
-const models = modelsData.filter(model => model.show);
+const groupModelsByBrand = groupArrayByKey(modelsData.filter(model => model.show), 'mark_id');
+const children = Object.keys(groupModelsByBrand).reduce((acc, key) => {
+	acc[key] = groupModelsByBrand[key].map(model => ( { url: `models/${model.id}/`, name: `${model.name.toUpperCase()}`, thumb: model.thumb } ) );
+	return acc;
+}, {});
+
 export const LINKS_MENU = [
 	{url: 'cars/', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
@@ -35,7 +41,7 @@ export const LINKS_MENU = [
 	{ 
 		url: 'models/', 
 		name: 'Модели',
-		children: models.map(model => ( { url: `models/${model.id}/`, name: `${model?.mark_id} ${model.name.toUpperCase()}` } ) )
+		children
 	},
 	{url: 'for-owners/', name: 'Владельцам'},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
@@ -54,7 +60,7 @@ export const COLLECTIONS = [
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
 // Текст согласия в формах
-export const AGREE_LABEL = '<span>Я согласен на</span><a href="/privacy-policy" class="!m-0 underline transition-all hover:no-underline" target="_blank">обработку персональных данных</a>';
+export const AGREE_LABEL = '<span>Даю согласие на обработку своих персональных данных на условиях, указанных</span> <a href="/privacy-policy" class="!m-0 underline transition-all hover:no-underline" target="_blank">здесь</a>';
 // Текст информации в футере
 import salonsData from '@/data/salons.json';
 const salons = salonsData.filter(salon => !salon?.type || salon?.type.includes('footer_info'));

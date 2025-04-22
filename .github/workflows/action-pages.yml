@@ -15,10 +15,11 @@ on:
       - completed
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["main","brand","dealer"]
     paths-ignore:
       - '.github/scripts/sh/getAirStorage.sh'
       - '.github/scripts/sh/getDealerData.sh'
+      - '.github/scripts/sh/getDealerStorage.sh'
       - '.github/scripts/CarFeedProcessorCSV.py'
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
@@ -63,16 +64,39 @@ jobs:
             echo "pages_enabled=false" >> $GITHUB_OUTPUT
           fi
 
+  determine_env:
+    needs: check-pages
+    runs-on: ubuntu-latest
+    outputs:
+      env_name: ${{ steps.set_env.outputs.env_name }}
+    steps:
+      - id: set_env
+        run: |
+          PROD_BRANCHES=("main" "master" "brand" "dealer") # Bash array
+          CURRENT_BRANCH="${{ github.ref_name }}"
+          IS_PROD=false
+          for branch in "${PROD_BRANCHES[@]}"; do
+            if [[ "$CURRENT_BRANCH" == "$branch" ]]; then
+              IS_PROD=true
+              break
+            fi
+          done
+          if $IS_PROD; then
+            echo "env_name=production" >> $GITHUB_OUTPUT
+          else
+            echo "env_name=development" >> $GITHUB_OUTPUT
+          fi
+
   # Build job
   build:
-    needs: check-pages
+    needs: [check-pages, determine_env]
     if: needs.check-pages.outputs.pages_enabled == 'true'
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
 
     # Указываете окружение и его переменные
     environment:
-      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+      name: ${{ needs.determine_env.outputs.env_name }}
 
     steps:
       - name: Checkout
@@ -110,26 +134,27 @@ jobs:
       - name: Download JSONs
         run: |
           mkdir src/data
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/banners.json -o src/data/banners.json
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/models.json -o src/data/models.json
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/salons.json -o src/data/salons.json
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/seo.json -o src/data/seo.json
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/services.json -o src/data/services.json
-          curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/socials.json -o src/data/socials.json
-          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/cars.json; then
-            curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/cars.json -o src/data/cars.json 
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/banners.json -o src/data/banners.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/models.json -o src/data/models.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/salons.json -o src/data/salons.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/scripts.json -o src/data/scripts.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/seo.json -o src/data/seo.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/services.json -o src/data/services.json
+          curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/socials.json -o src/data/socials.json
+          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/cars.json; then
+            curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/cars.json -o src/data/cars.json 
           fi
-          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/special-services.json; then
-            curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/special-services.json -o src/data/special-services.json 
+          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/special-services.json; then
+            curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/special-services.json -o src/data/special-services.json 
           fi
-          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/faq.json; then
-            curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/faq.json -o src/data/faq.json 
+          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/faq.json; then
+            curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/faq.json -o src/data/faq.json 
           fi
-          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/reviews.json; then
-            curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/reviews.json -o src/data/reviews.json 
+          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/reviews.json; then
+            curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/reviews.json -o src/data/reviews.json 
           fi
-          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/models-sections.yml; then
-            curl ${{ secrets.JSON_PATH }}/${{ github.event.repository.name }}/data/models-sections.yml -o src/data/models-sections.yml 
+          if curl --output /dev/null --silent --fail -r 0-0 ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/models-sections.yml; then
+            curl ${{ secrets.JSON_PATH }}/${{ vars.DOMAIN }}/data/models-sections.yml -o src/data/models-sections.yml 
           fi
           ls -al src/data
 
@@ -149,8 +174,15 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
+      - name: Create After_deploy text
+        if: steps.check_changes.outputs.changes == 'true'
+        id: after_deploy
+        run: |
+          echo text="<blockquote>After deploy: https://${{ vars.DOMAIN }}</blockquote>" >> $GITHUB_OUTPUT
+
     outputs:
       changes: ${{ steps.check_changes.outputs.changes }}
+      after_deploy: ${{ steps.after_deploy.outputs.text }}
 
   # Deployment job
   deploy:
@@ -166,12 +198,12 @@ jobs:
         uses: actions/deploy-pages@v4
 
   notify_telegram:
-    needs: deploy
+    needs: [build, deploy]
     if: needs.build.outputs.changes == 'true'
     uses: ./.github/workflows/github-telegram.yml
     with:
       additional-text: |
-        $(echo -n '<blockquote>After deploy</blockquote>' | base64)
+        $(echo -n '${{ needs.build.outputs.after_deploy }}' | base64)
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
