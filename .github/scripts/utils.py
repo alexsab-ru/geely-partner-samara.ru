@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import re
 import copy
@@ -431,7 +432,7 @@ def check_local_files(brand, model, color, vin):
         return "https://cdn.alexsab.ru/errors/404.webp"
 
 
-def create_file(car, filename, friendly_url, current_thumbs, existing_files, config):
+def create_file(car, filename, friendly_url, current_thumbs, existing_files, sort_storage_data, config):
     vin = car.find('vin').text
     vin_hidden = process_vin_hidden(vin)
     # Преобразование цвета
@@ -462,6 +463,18 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
 
     # Forming the YAML frontmatter
     content = "---\n"
+
+    # Check if the VIN exists as a key in sort_storage_data
+    if vin in sort_storage_data:
+        # If VIN exists, use its order value
+        order = sort_storage_data[vin]
+    else:
+        # If VIN doesn't exist, increment the current order and use it
+        sort_storage_data['order'] = sort_storage_data.get('order', 0) + 1
+        order = sort_storage_data['order']
+
+    content += f"order: {order}\n"
+
     # content += "layout: car-page\n"
     total_element = car.find('total')
     if total_element is not None:
@@ -563,7 +576,7 @@ def format_value(value: str) -> str:
         return f"'{value}'"
     return value
 
-def update_yaml(car, filename, friendly_url, current_thumbs, config):
+def update_yaml(car, filename, friendly_url, current_thumbs, sort_storage_data, config):
 
     print(f"Обновление файла: {filename}")
     with open(filename, "r", encoding="utf-8") as f:
@@ -676,6 +689,16 @@ def update_yaml(car, filename, friendly_url, current_thumbs, config):
 
             data['id'] += ", " + str(unique_id.text)
 
+    if 'order' not in data:
+        if vin in sort_storage_data:
+            # If VIN exists, use its order value
+            order = sort_storage_data[vin]
+        else:
+            # If VIN doesn't exist, increment the current order and use it
+            sort_storage_data['order'] = sort_storage_data.get('order', 0) + 1
+            order = sort_storage_data['order']
+
+        data['order'] = order
 
     images_container = car.find(f"{config['image_tag']}s")
     if images_container is not None:
