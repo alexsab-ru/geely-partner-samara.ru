@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'http://geely-partner-samara.ru',
+	site: 'https://geely-partner-samara.ru',
 	base: "/"
 });
