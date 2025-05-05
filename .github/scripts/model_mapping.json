@@ -368,7 +368,9 @@
                 "Синий": "light-blue.webp",
                 "Голубой": "light-blue.webp",
                 "White": "white.webp",
-                "Белый": "white.webp"
+                "Белый": "white.webp",
+                "Серебристый": "silver-metallic.webp",
+                "Серебряный": "silver-metallic.webp"
             }
         }
     },
@@ -1376,6 +1378,8 @@
             "color": {
                 "Белый": "noble-agate.webp",
                 "Синий": "heavenly-topaz.webp",
+                "Небесный топаз": "heavenly-topaz.webp",
+                "Голубой": "heavenly-topaz.webp",
                 "Красный": "magmatic-red.webp",
                 "Серебристый": "platinum-neon.webp",
                 "Черный": "galactic-black.webp",
