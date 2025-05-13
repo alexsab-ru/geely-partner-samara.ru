@@ -16,6 +16,7 @@ import Button from '@/components/Button/Button.astro';
 import Input from '@/components/Input.astro';
 import Checkbox from '@/components/Checkbox/Checkbox.astro';
 import FormSelect from '@/components/FormSelect.astro';
+import InfoSectionWithImage from '@/components/InfoSectionWithImage/InfoSectionWithImage.astro';
 import models from '@/data/models.json';
 
 export const from = '01.07.2024';
@@ -64,17 +65,18 @@ GEELY ASSISTANCE — программа помощи на дорогах, гар
 
 Получите пластиковую информационную карту GEELY ASSISTANCE при покупке автомобиля или запишите номер телефона круглосуточной службы поддержки: **<a href="tel:+78002000289" class="whitespace-nowrap">8 800 200 02 89</a>**
 
-<div class="flex flex-col-reverse lg:flex-row my-14">
-	<div class="lg:w-1/2 pr-4 lg:pr-10 xl:pr-16 pl-4 lg:pl-16 lg:bg-gray-100 py-6 xl:py-10">
-		<h3 class="font-bold">Активация программы</h3>
-		<ol class="list-decimal lg:!text-sm xl:!text-base">
-			<li>Ваш автомобиль автоматически становится участником программы на 1 год с даты покупки нового автомобиля и совершенно бесплатно.</li>
-			<li>Чтобы воспользоваться услугами - позвоните по телефону круглосуточной службы поддержки: <a href="tel:+78005058637" class="whitespace-nowrap">8 (800) 505-86-37</a> (для бесплатных звонков из России); <a href="tel:+74999404932" class="whitespace-nowrap">+7 (499) 940-49-32<a href="tel:+78005058637">8 (800) 505-86-37</a></a> (для международных звонков)</li>
-			<li>Сообщите оператору круглосуточной службы поддержки необходимую информацию (VIN, местонахождение, государственный регистрационный знак и цвет автомобиля, Ваши ФИО, контактный телефон и причину обращения).</li>
-		</ol>
-	</div>
-	<img src="https://cdn.alexsab.ru/for-owners/geely/geely-assistance/1.webp" class="lg:w-1/2 h-auto object-cover flex-shrink-0" />
-</div>
+<InfoSectionWithImage
+	image={{
+		desktop: 'https://cdn.alexsab.ru/for-owners/geely/geely-assistance/1.webp',
+	}}
+>
+	<h3 class="font-bold">Активация программы</h3>
+	<ol class="list-decimal lg:!text-sm xl:!text-base">
+		<li>Ваш автомобиль автоматически становится участником программы на 1 год с даты покупки нового автомобиля и совершенно бесплатно.</li>
+		<li>Чтобы воспользоваться услугами - позвоните по телефону круглосуточной службы поддержки: <a href="tel:+78005058637" class="whitespace-nowrap">8 (800) 505-86-37</a> (для бесплатных звонков из России); <a href="tel:+74999404932" class="whitespace-nowrap">+7 (499) 940-49-32<a href="tel:+78005058637">8 (800) 505-86-37</a></a> (для международных звонков)</li>
+		<li>Сообщите оператору круглосуточной службы поддержки необходимую информацию (VIN, местонахождение, государственный регистрационный знак и цвет автомобиля, Ваши ФИО, контактный телефон и причину обращения).</li>
+	</ol>
+</InfoSectionWithImage>
 
 <h2 class="text-center">Тарифы Geely Assistance</h2>
 
