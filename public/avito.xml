@@ -2065,7 +2065,25 @@ Geely Preface — это элегантный седан бизнес-класс
 		<InsuranceDiscount />
 		<MaxDiscount>1098000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/0002b10f83fb6f4db20577a6460781e1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/ccfe7a186c6d610cde485b46bbbbe3c2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/3d2016546a045d7c5950c5a3d6502d90.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/22e1ddca293f6cc3c0fd40ed59ebd5c3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/9dd4089a8556199301e51fca49504e16.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/20d9f771cb59ac209b34da977106e342.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/be89bd33b2c73264b0b3d735082d7352.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/80dfc1edb27ab71c1a82a3489ef96a7d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/986fcc7cbd3a55adc8368a3f4d6981f8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/0502e1370672733fe533163957cf952c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/e9bda6b3b56f3359b3b7d5ba61499c5a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/1417abf9885e79a441abcc8813e68361.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/30bb03b2e232ab8c070402e9dd3b9db4.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/00fb1197f726122dd949c570196ccfe2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/8eb025ccf4ff3bee128b1e99c150dbcd.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/2d1579eb308afd8b918d3e4ae741f013.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GD3RB004611/daf56f5e1a69ecb3c17cba1344ed3c02.jpeg" />
+		</Images>
 		<Make>Knewstar</Make>
 		<Model>001</Model>
 		<GenerationId>22121634</GenerationId>
