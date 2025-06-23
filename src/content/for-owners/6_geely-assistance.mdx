@@ -10,6 +10,7 @@ description: "GEELY ASSISTANCE — программа помощи на доро
 import { SITE_NAME, PHONE, BRAND, AGREE_LABEL } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+import settings from '@/data/settings.json';
 
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import Button from '@/components/Button/Button.astro';
@@ -18,6 +19,8 @@ import Checkbox from '@/components/Checkbox/Checkbox.astro';
 import FormSelect from '@/components/FormSelect.astro';
 import InfoSectionWithImage from '@/components/InfoSectionWithImage/InfoSectionWithImage.astro';
 import models from '@/data/models.json';
+
+export const { site_name, phone_common, brand } = settings;
 
 export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;

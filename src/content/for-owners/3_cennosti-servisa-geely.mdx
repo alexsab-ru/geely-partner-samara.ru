@@ -17,6 +17,8 @@ import Input from '@/components/Input.astro';
 import Checkbox from '@/components/Checkbox/Checkbox.astro';
 import FormSelect from '@/components/FormSelect.astro';
 import models from '@/data/models.json';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, brand } = settings;
 
 export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;

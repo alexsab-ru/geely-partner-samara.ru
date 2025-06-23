@@ -8,7 +8,8 @@ image: https://cdn.alexsab.ru/specials/geely/zimnie-shiny-v-podarok/geely-winter
 description: "При покупке нового автомобиля GEELY в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок, данное предложение действует на весь модельный ряд Geely"
 ---
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, LEGAL_CITY } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, legal_city } = settings;
 
 export const from = '01.12.2024';
 export const to = '25 декабря 2024';

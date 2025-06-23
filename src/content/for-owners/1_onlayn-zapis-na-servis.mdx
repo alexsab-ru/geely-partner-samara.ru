@@ -10,13 +10,17 @@ description: "Запись на сервис автомобилей Geely в С�
 import { SITE_NAME, PHONE, BRAND, AGREE_LABEL } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+import settings from '@/data/settings.json';
 
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import Button from '@/components/Button/Button.astro';
 import Input from '@/components/Input.astro';
 import Checkbox from '@/components/Checkbox/Checkbox.astro';
 import FormSelect from '@/components/FormSelect.astro';
-import models from '@/data/models.json';
+import modelsData from '@/data/models.json';
+export const { models } = modelsData;
+
+export const { site_name, phone_common, brand } = settings;
 
 export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;

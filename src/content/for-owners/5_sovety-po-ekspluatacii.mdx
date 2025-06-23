@@ -7,7 +7,8 @@ slug: "sovety-po-ekspluatacii"
 image: "https://cdn.alexsab.ru/for-owners/geely/sovety-po-ekspluatacii/thumb.webp"
 description: "Официальный дилер Geely. Простые советы помогут сохранить свежий внешний вид, хорошее состояние кузова и высокую остаточную стоимость автомобиля."
 ---
-import { SITE_NAME, PHONE, BRAND, AGREE_LABEL } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, brand } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 

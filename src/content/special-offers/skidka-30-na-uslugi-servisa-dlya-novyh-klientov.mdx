@@ -8,7 +8,8 @@ image: https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-no
 description: "Всем новым клиентам предоставляется скидка 30% на все виды технических работ в официальном дилерском центре Geely Партнер Авто Самара. Не упустите возможность воспользоваться выгодным предложением!"
 ---
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, LEGAL_CITY } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, legal_city } = settings;
 
 export const from = '01.07.2024';
 export const to = '30 января 2025';

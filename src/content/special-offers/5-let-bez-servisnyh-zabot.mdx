@@ -9,7 +9,8 @@ description: "При покупке клиентом нового автомоб
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE, LEGAL_ENTITY, LEGAL_INN, LEGAL_CITY } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_entity, legal_inn, legal_city } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 

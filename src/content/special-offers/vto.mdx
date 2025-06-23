@@ -8,7 +8,8 @@ breadcrumb: Программа "Выгодное Техническое Обсл
 h1: Программа "Выгодное Техническое Обслуживание"
 ---
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -31,7 +32,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 Одновременно с ТО скидка предоставляется на все сопутствующие работы и запчасти.
 
-Подробности предложения уточняйте у мастера-консультанта по телефону <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности предложения уточняйте у мастера-консультанта по телефону <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 
