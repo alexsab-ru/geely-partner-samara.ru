@@ -512,7 +512,9 @@ Geely Cityray – современный технологичный кроссо
 		<InsuranceDiscount>100000</InsuranceDiscount>
 		<MaxDiscount>470000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S97RX308826/49d58ff72eb0323a4dd48c2d2f971cc9.jpeg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Cityray</Model>
 		<GenerationId>22127398</GenerationId>
@@ -624,7 +626,14 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 		<InsuranceDiscount />
 		<MaxDiscount>415000</MaxDiscount>
 		<Color>Красный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/5b5d05028901e6f987f04206aacaf2b0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/e9396ab5af98fee22fc1e2138ea33aed.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/9eff4408a59dfda459964bf2db4e4839.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/8e4c79a2baea8ddd91ffeda6111819e7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/f507ad36045e4789fdcf45601ac006bb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/cdd02a29f08c0faf5760d432f82caf6f.jpeg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Coolray</Model>
 		<GenerationId>18719904</GenerationId>
@@ -1224,7 +1233,26 @@ Gееly Моnjаrо оснащён передовыми системами бе�
 		<InsuranceDiscount />
 		<MaxDiscount>650000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/7bf14ff7fb2fc4033aeb30cadfafabe1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/d0cc2c08407b029829930e3bdf20da15.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/e2ae00f5068d3fe1cf4255b085b60006.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/0a981a62ae6f351c50f33bcb02219263.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/874a01520314c448023cbd999d1900fb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/13889b42915a13cc5688003400a9ee78.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/584bdefc4f570b028592c9ffe114e65b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/58163731757df36ddef8938c68438fa5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/08aefac7b38c4ffe2f070e96af5a371e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/3cd054d172d75ad9d654015964d075e3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/110a970249437d2cf2640ef8d1ef8e53.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/80cd0a9adc836dcab765adc389048aec.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/4ff653a14d87f495c3bdb9de7844599a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/b17c11828a458c98dd6f329bc3bdef1b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/a5230b102528d5eae7ba8906e46845e4.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/ee175a6ddb7aa27dd8d7030c85b5feff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/79c421014e29b3e20ac2595714513e2f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7RS183957/6653d6c66b1255892bf508e8e3a1e665.jpeg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
