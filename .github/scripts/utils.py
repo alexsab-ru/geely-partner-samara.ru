@@ -637,7 +637,7 @@ def create_file(car, filename, friendly_url, current_thumbs, sort_storage_data, 
     content += f"breadcrumb: {join_car_data(car, 'mark_id', 'folder_id', 'complectation_name')}\n"
 
     # Купить {{mark_id}} {{folder_id}} {{modification_id}} {{color}} у официального дилера в {{where}}
-    content += f"title: 'Купить {join_car_data(car, 'mark_id', 'folder_id', 'modification_id', 'color')} у официального дилера в {config['legal_city_where']}'\n"
+    content += f"title: 'Купить {join_car_data(car, 'mark_id', 'folder_id', 'complectation_name', 'modification_id', 'color')} у официального дилера в {config['legal_city_where']}'\n"
 
     description = (
         f'Купить автомобиль {join_car_data(car, "mark_id", "folder_id")}'
