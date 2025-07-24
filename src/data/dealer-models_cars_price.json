@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 2887190,
+    "benefit": 930000
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 2464190,
+    "benefit": 750000
+  },
+  {
+    "brand": "Geely",
+    "model": "Coolray",
+    "price": 2179888,
+    "benefit": 729302
+  },
+  {
+    "brand": "Geely",
+    "model": "Emgrand",
+    "price": 1803990,
+    "benefit": 680000
+  },
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 3572190,
+    "benefit": 1280000
+  },
+  {
+    "brand": "Geely",
+    "model": "Okavango",
+    "price": 2974190,
+    "benefit": 723000
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 3059190,
+    "benefit": 458000
+  }
+]
