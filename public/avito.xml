@@ -1763,7 +1763,26 @@ Geely Preface — это элегантный седан бизнес-класс
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Зеленый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/f34d9972b0031cac571d1deb9103a837.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/a63c29d5b3d06e957321d5192258d620.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/caa9f9c4e38a462dc890810719790c52.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/90b94baed328fb1445616ad34afbddf5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/df01be94577baf2c678be609a301aa80.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/e2fa950c7ed7fb6c77de43ede3b4d87f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/22857c43e27fd279c7dc40ac0a909a76.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/b5dbcfc10f549262f40fe3e0a93db4a6.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/45db19cf1cbe3546a7ac73ea528b6c40.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/935ea14e0c733339b762c6a6103d0bb5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/39e12acd28b73194ccddf140a0f98c89.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/5744048da87fddff67bdf045644bbd27.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/458f46ea39f8bdfac695bd2386a36452.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/9d5a931a87d6b77e160666599153d71c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/ee511c81913534a636a291b7ffbaaf7e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/95e15d9a11dd63c63f91c3f0e6d5970f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/2273eff2830eb38acc2d731db9f221c0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S82RD116093/9acbdf5ba0925cd690cfaecb59c537f0.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
