@@ -291,7 +291,26 @@ Geely Atlas – ультрасовременный семейный кроссо
 		<InsuranceDiscount>150000</InsuranceDiscount>
 		<MaxDiscount>930000</MaxDiscount>
 		<Color>Серебряный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/e71e69f01bcfc671be0ebbd88c1be848.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/926ee45696d6652f463de04654ae0ff7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/1d5c9ac02e89c671dbb0fdeadf440227.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/ffe59546b2a6ace91c155cad9e4c4178.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/396c10408ebbeec46abfca51d4a99fb6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/4518bc96d90588f181d7421e2265526b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/afeca2c60a361602acaed9259034519c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/e347c137c9c652438d5318461ce06866.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/c30bcfc91cd142800bd7564a2aab6f1f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/b63c38062adbcad4d3f6d8a8ff634e7a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/9c276a3544e92cb7043d4e710d4e2f95.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/441bd672fe2a1f76aafeb8dd9f845744.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/c56b84cf51c3000861ddb7567170fe8e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/1f83461a2f7069968919e65644fae0f6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/bd1dfcf313fdfa363f2ed3a8597456d1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/241a009a698658932a04ad1a8a6cd960.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/70cf462492f44c79ba68c5a0e1870cdd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S68RB150359/a69c57b6aef99fef033b984ff55e6b10.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
@@ -423,10 +442,10 @@ Geely Cityray – современный технологичный кроссо
 Высокий уровень пассивной безопасности достигнут благодаря широкому применению высокопрочной стали в силовой структуре кузова, доля которой составляет более 68%. Такая конструкция позволяет оптимизировать вес автомобиля, одновременно способствуя достижению прочности и топливной экономичности.
 Большой вертикальный мультимедийный дисплей с высоким разрешением и диагональю 13,2”, управляемый мощным процессором, отличается современной графикой и быстродействием, а также высокой четкостью изображения. Специальное антибликовое покрытие и продуманный интерфейс обеспечат легкое и интуитивно понятное управление функциями нового Cityray.</Description>
 		<Price>3214190</Price>
-		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>750000</MaxDiscount>
+		<TradeinDiscount>190000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>390000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308620/4ea857c6c15a3060d215d246ecc6730c.jpg" />
@@ -704,8 +723,8 @@ Gееly Еmgrаnd II — это идеальный выбор для тех, к�
 
 Не упустите возможность стать обладателем этого замечательного автомобиля!</Description>
 		<Price>2909190</Price>
-		<TradeinDiscount>290000</TradeinDiscount>
-		<CreditDiscount>439302</CreditDiscount>
+		<TradeinDiscount>260000</TradeinDiscount>
+		<CreditDiscount />
 		<InsuranceDiscount />
 		<MaxDiscount>729302</MaxDiscount>
 		<Color>Белый</Color>
