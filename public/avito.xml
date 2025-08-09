@@ -1406,6 +1406,81 @@ Geely Preface — это элегантный седан бизнес-класс
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>3e3f2061cbc7d5aa0b5c6a44637d87b8</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА KNEWSTAR 001 В ПАРТНЕР-АВТО САМАРА!   
+❗️ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый KNEWSTAR 001 уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
+
+ ПРИ ПОКУПКЕ KNEWSTAR 001 ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:  
+«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками  
+ Шинный отель* — бесплатное хранение шин в межсезонье!  
+️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно!  
+ Дополнительное оборудование* — приятные и нужные опции в подарок!
+
+➕ А ЕЩЁ:  
+ Индивидуальный подход к каждому клиенту  
+ Поддержка и помощь на всех этапах покупки  
+✔️ Прозрачные условия без навязанных услуг  
+
+ ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?  
+✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!  
+✅ Кредит без первоначального взноса — сядьте за руль уже сегодня!  
+✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!  
+✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
+
+⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
+
+ ПОЧЕМУ KNEWSTAR?  
+ KNEWSTAR — мировой лидер в автоиндустрии с проверенной репутацией  
+⚙️ Технологичность, безопасность и стиль — в каждой модели  
+ Адаптация к российским условиям — идеален для наших дорог  
+ Отличное соотношение цены и качества — каждый рубль работает на вас!
+
+ Партнёр-Авто Самара — официальный дилер KNEWSTAR. Надёжность, забота и честность — наш стандарт!  
+Напротив ТЦ Мега  
+ Позвоните нам прямо сейчас и получите персональное предложение!  
+ Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!</Description>
+		<Price>4493190</Price>
+		<TradeinDiscount>563000</TradeinDiscount>
+		<CreditDiscount>325000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>1098000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/48eb2b5773495b7469c440adc9dca2ad.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/f5797258c34e1598652e5ed50a097845.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/176ba49340b188f9409c9d4fc288bc7e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b29a655f3645738398c02fac0f1eabb8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b487aaa05c21392ece62cf18649d38e1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/29773136c99a18c998a9692749ac5d25.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/94029fc830128b6b007166dcf56806a0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b4c84dd9c41bf9dcfcc84c1a8e4547d3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/e7eb0bd796882cd50deebdd8eeabc26c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/0430d94e4a63321cde6ee0b6379188c6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/00ca5e8641bc3bfb1f52748c69736d97.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/a757a9bd077b06294854c8ec5f77695f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/8f05d27f5db784a49196947ce59ebfef.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/8adaaf172438e6d88a19e6dab9937c26.jpeg" />
+		</Images>
+		<Make>Knewstar</Make>
+		<Model>001</Model>
+		<GenerationId>22121634</GenerationId>
+		<ModificationId>22121638</ModificationId>
+		<ComplectationId>22121639</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LHA022GDXRB003861</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>c3782a9653a62476b9b26be66a50e189</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1481,81 +1556,6 @@ Geely Preface — это элегантный седан бизнес-класс
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LHA022GD8RB005382</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>3e3f2061cbc7d5aa0b5c6a44637d87b8</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>УСПЕЙТЕ ЗАФИКСИРОВАТЬ ЛУЧШУЮ СДЕЛКУ НА KNEWSTAR 001 В ПАРТНЕР-АВТО САМАРА!   
-❗️ Время нестабильности — время действовать! Цены растут, условия меняются, а ваш новый KNEWSTAR 001 уже ждёт. Зачем откладывать, если можно выгодно вложиться в надёжность и комфорт прямо сейчас?
-
- ПРИ ПОКУПКЕ KNEWSTAR 001 ВЫ ПОЛУЧАЕТЕ КОМПЛЕКС ПОДАРКОВ:  
-«5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками  
- Шинный отель* — бесплатное хранение шин в межсезонье!  
-️ Автоотель* — охраняемая парковка рядом с дилерским центром — всегда бесплатно!  
- Дополнительное оборудование* — приятные и нужные опции в подарок!
-
-➕ А ЕЩЁ:  
- Индивидуальный подход к каждому клиенту  
- Поддержка и помощь на всех этапах покупки  
-✔️ Прозрачные условия без навязанных услуг  
-
- ПОЧЕМУ ВЫГОДНО ПОКУПАТЬ СЕЙЧАС?  
-✅ Рассрочка всего под 0,01% — без переплат и скрытых условий!  
-✅ Кредит без первоначального взноса — сядьте за руль уже сегодня!  
-✅ Оценка по трейд-ин выше рыночной — получайте максимум за ваш авто!  
-✅ Лизинг без первого взноса — суперусловия для бизнеса и частных клиентов!
-
-⏰ УСПЕЙТЕ ДО КОНЦА МЕСЯЦА — ПОТОМ УСЛОВИЯ МОГУТ ИЗМЕНИТЬСЯ!
-
- ПОЧЕМУ KNEWSTAR?  
- KNEWSTAR — мировой лидер в автоиндустрии с проверенной репутацией  
-⚙️ Технологичность, безопасность и стиль — в каждой модели  
- Адаптация к российским условиям — идеален для наших дорог  
- Отличное соотношение цены и качества — каждый рубль работает на вас!
-
- Партнёр-Авто Самара — официальный дилер KNEWSTAR. Надёжность, забота и честность — наш стандарт!  
-Напротив ТЦ Мега  
- Позвоните нам прямо сейчас и получите персональное предложение!  
- Не упустите момент — инвестируйте в комфорт и уверенность уже сегодня!</Description>
-		<Price>4493190</Price>
-		<TradeinDiscount>563000</TradeinDiscount>
-		<CreditDiscount>325000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>1098000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/48eb2b5773495b7469c440adc9dca2ad.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/f5797258c34e1598652e5ed50a097845.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/176ba49340b188f9409c9d4fc288bc7e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b29a655f3645738398c02fac0f1eabb8.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b487aaa05c21392ece62cf18649d38e1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/29773136c99a18c998a9692749ac5d25.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/94029fc830128b6b007166dcf56806a0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/b4c84dd9c41bf9dcfcc84c1a8e4547d3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/e7eb0bd796882cd50deebdd8eeabc26c.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/0430d94e4a63321cde6ee0b6379188c6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/00ca5e8641bc3bfb1f52748c69736d97.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/a757a9bd077b06294854c8ec5f77695f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/8f05d27f5db784a49196947ce59ebfef.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LHA022GDXRB003861/8adaaf172438e6d88a19e6dab9937c26.jpeg" />
-		</Images>
-		<Make>Knewstar</Make>
-		<Model>001</Model>
-		<GenerationId>22121634</GenerationId>
-		<ModificationId>22121638</ModificationId>
-		<ComplectationId>22121639</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LHA022GDXRB003861</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 </Ads>
