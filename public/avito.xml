@@ -47,7 +47,20 @@ Geely Atlas – ультрасовременный семейный кроссо
 		<InsuranceDiscount>150000</InsuranceDiscount>
 		<MaxDiscount>930000</MaxDiscount>
 		<Color>Серебряный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/2942f4bcbdb59e5ed943ae1a38e5293f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/4b3b17c640ffc5b8514fc31896a7c293.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/00ad2f3becacdfce86665258f0ee27d2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/c062291e3a4749eec209f1b5e64b5e18.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/c724fe54b9bc0f57174767e98fa0072f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/d72938c3acec78eac0f67d0d2b93b18a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/f803e84afe96ce2b7d6f7488c390dd68.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/d4595bb56527c6d9df8d451231562e11.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/9e75e48b9567258c56f147b90f5241dc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/34ad28bd65017421cd7f179d82cc4f60.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/ad07803bfd10f0b6c5a08e9d05010328.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/ac55c46c9545a12f2514cba0194aa907.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
