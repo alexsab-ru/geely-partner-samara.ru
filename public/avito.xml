@@ -43,9 +43,9 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой</Description>
 		<Price>3717190</Price>
 		<TradeinDiscount>380000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
+		<CreditDiscount>350000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>931000</MaxDiscount>
+		<MaxDiscount>1116440</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/2942f4bcbdb59e5ed943ae1a38e5293f.jpg" />
@@ -120,9 +120,9 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</Description>
 		<Price>3917190</Price>
 		<TradeinDiscount>380000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
+		<CreditDiscount>400000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>931000</MaxDiscount>
+		<MaxDiscount>1176240</MaxDiscount>
 		<Color>Зеленый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S16RB131913/e982b7ba0f5255f8ec1129c90071af33.jpg" />
@@ -202,9 +202,9 @@ Geely Atlas – ультрасовременный семейный кроссо
 • Селектор автоматической коробки передач с декоративной прозрачной накладкой.</Description>
 		<Price>3917190</Price>
 		<TradeinDiscount>380000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
+		<CreditDiscount>400000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>931000</MaxDiscount>
+		<MaxDiscount>1176240</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S16RB137145/1fff0b4fc20c28690f75a436483d99fc.jpg" />
@@ -556,9 +556,25 @@ Geely Cityray – современный технологичный кроссо
 		<TradeinDiscount>220000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>470000</MaxDiscount>
+		<MaxDiscount>684190</MaxDiscount>
 		<Color>Голубой</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/498bfd1cf2b35dbf2102312186faa5e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/92566468d736b0353a66353cb2f9e076.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/1744e1b69566dfce33061ca0124826bf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/c2e0d5af39ed3bbb6f534eefefe0c4e5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/7a7f162d3dd6c995eda4be14f077650e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/39cbdc9e17b3fa5269a599ece9519394.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/7006854d33211a37e2a2ee6cd2318595.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/f49748e751841fd23e6cc5a3fc8191d1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/f85c24081788f28a9d7089e02687b95b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/d6430892270e165e549db83e9b5c0f0c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/272f171dc5593cbaeeaccdeb79b89c77.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/d6dbafdc0e9461d36661742ec671b28e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/ea5aa629683e6a248a3b02f243636f2a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/9cdb8d7f7fe54c4dd37da60f388472f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S99RX308567/0b5b0e2bb1fdae0a0de0e67cfac0fe41.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Cityray</Model>
 		<GenerationId>22127398</GenerationId>
@@ -610,7 +626,7 @@ Geely Cityray – современный технологичный кроссо
 		<TradeinDiscount>220000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>470000</MaxDiscount>
+		<MaxDiscount>684190</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Geely</Make>
@@ -825,7 +841,7 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 		<TradeinDiscount>290000</TradeinDiscount>
 		<CreditDiscount>125000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>466000</MaxDiscount>
+		<MaxDiscount>470000</MaxDiscount>
 		<Color>Голубой</Color>
 		<Images />
 		<Make>Geely</Make>
@@ -881,7 +897,7 @@ Coolray стал еще ярче и совершеннее. Этот автом�
 		<TradeinDiscount>290000</TradeinDiscount>
 		<CreditDiscount>125000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>466000</MaxDiscount>
+		<MaxDiscount>470000</MaxDiscount>
 		<Color>Красный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB37622Z3RX542014/5b5d05028901e6f987f04206aacaf2b0.jpeg" />
